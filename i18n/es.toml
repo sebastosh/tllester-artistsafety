@@ -1,0 +1,17 @@
+copyright = 'Derechos de autor'
+allrightsreserved = 'Reservados todos los derechos'
+latest = 'Ultimas'
+more = 'Ver Todas las Obras'
+resume = 'Currículum Vitae'
+
+[about]
+other = "Acerca de"
+
+[post]
+other = "Obra"
+
+[tags]
+other = "tags"
+
+[language]
+other = "es 🇲🇽"

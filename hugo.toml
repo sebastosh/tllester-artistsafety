@@ -1,0 +1,77 @@
+baseURL = 'https://artistsafety.tllester.info/'
+languageCode = 'en-us'
+title = 'Artist Safety'
+
+[params]
+  description = 'a hybrid consultancy and volunteer network supproting artists on the frontlines of social change'
+
+[menus]
+  [[menus.main]]
+    identifier = 'freedimensional'
+    name = 'FreeDimensional'
+    url = 'freedimensional/'
+    weight = 10
+  [[menus.main]]
+    identifier = 'creativeresistancefund'
+    name = 'Creative Resistance Fund'
+    url = 'creativeresistancefund/'
+    weight = 20
+  [[menus.main]]
+    identifier = 'about'
+    name = 'About'
+    url = 'about/'
+    weight = 40
+  [[menus.main]]
+    identifier = 'tags'
+    name = 'tags'
+    url  = 'tags/'
+    weight = 50
+
+  # [[menus.main]]
+  #   identifier = 'language'
+  #   name = 'en'
+  #   weight = 30
+  #   [[menus.main]]
+  #       parent = "language"
+  #       name = 'en'
+  #       weight = 31
+  #   [[menus.main]]
+  #       parent = "language"
+  #       name = 'es'
+  #       weight = 32
+
+# [languages]
+#   [languages.en]
+#     languageCode = 'en-US'
+#     languageName = 'en 🇺🇸'
+#     LanguageDirection = 'ltr'
+#     timeZone = 'America/New_York'
+#     title = 'Artist Safety'
+#     weight = 1
+#     [languages.en.pagination]
+#         path = 'page'
+#     [languages.en.params]
+#         description = 'a hybrid consultancy and volunteer network supproting artists on the frontlines of social change'
+#         latest = 'Latest'
+#         more = 'More'
+#   [languages.es]
+#     languageCode = 'es-MX'
+#     languageName = 'es 🇲🇽'
+#     LanguageDirection = 'ltr'
+#     timeZone = "America/Mexico_City"
+#     title = 'Sebastien Sanz de Santamaria'
+#     weight = 2
+#     [languages.es.pagination]
+#         path = 'página'
+#     [languages.es.params]
+#         description = 'Gerente / Dueño / Diseño de Producto, Desarrollador Web, Productor Cultural'
+#         latest = 'Utimas'
+#         more = 'Mas'
+#     [languages.es.permalinks]
+#         _post = "/obra/"
+#         post = "/obra/:slug"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
