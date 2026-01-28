@@ -18,7 +18,7 @@ title: "Urgent Call to Action: Free Zakaria Zubeidi !"
 type: "freedimensional"
 ---
 
-[![](images/zzubeidi-300x200.jpg "zzubeidi")](http://freedimensional.org/wp-content/uploads/2012/09/zzubeidi.jpg)**On the 9th of September Zakaria Zubeidi announced that he will embark on a death fast, a complete food and fluid strike, in response to the continuous postponement of his release from Palestinian Authority prison. This effectively means that unless the Palestinian Authority releases Zakaria he will most probably not make it through the week.** 
+[![](/freedimensional/images/zzubeidi-300x200.jpg "zzubeidi")](http://freedimensional.org/wp-content/uploads/2012/09/zzubeidi.jpg)**On the 9th of September Zakaria Zubeidi announced that he will embark on a death fast, a complete food and fluid strike, in response to the continuous postponement of his release from Palestinian Authority prison. This effectively means that unless the Palestinian Authority releases Zakaria he will most probably not make it through the week.** 
 
 Zubeidi, co-founder of The Freedom Theatre and former leader of the Al-Aqsa Martyrs' Brigades, has been imprisoned by the Palestinian Authority for close to four months. No charges have been made against him, no evidence presented and throughout his imprisonment his rights have been severely violated, as described by among others Human Rights Watch (http://www.hrw.org/news/2012/07/27/israelpalestinian-authority-theater-group-hit-both-sides).
 

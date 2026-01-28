@@ -17,7 +17,7 @@ title: "Uganda jails British producer David Cecil over play about homosexuality"
 type: "freedimensional"
 ---
 
-[![](images/davidcecil1-300x192.jpg "davidcecil")](http://freedimensional.org/wp-content/uploads/2012/09/davidcecil1.jpg)Activists on Friday slammed Uganda for arresting a British theatre producer who staged a play about a gay man in defiance of a ban by the country's media authorities.
+[![](/freedimensional/images/davidcecil1-300x192.jpg "davidcecil")](http://freedimensional.org/wp-content/uploads/2012/09/davidcecil1.jpg)Activists on Friday slammed Uganda for arresting a British theatre producer who staged a play about a gay man in defiance of a ban by the country's media authorities.
 
 Producer David Cecil was charged in court Thursday with two counts including one of “disobeying legal orders” and sent to prison pending a bail hearing next week. He faces up to two years in jail if found guilty, his lawyer said.
 

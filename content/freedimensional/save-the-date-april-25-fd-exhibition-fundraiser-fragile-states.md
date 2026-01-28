@@ -22,7 +22,7 @@ title: "SAVE THE DATE! APRIL 25 - fD Exhibition Fundraiser - FRAGILE STATES"
 type: "freedimensional"
 ---
 
-[![fd front](images/fd-front-200x300.jpg)](http://freedimensional.org/wp-content/uploads/2013/04/fd-front.jpg)freeDimensional in partnership with the [Brian Morris Gallery](http://brianmorrisgallery.com/) invites you to attend a group exhibition launch and fundraiser, **Fragile States**, on **April 25, from 6-9PM**.
+[![fd front](/freedimensional/images/fd-front-200x300.jpg)](http://freedimensional.org/wp-content/uploads/2013/04/fd-front.jpg)freeDimensional in partnership with the [Brian Morris Gallery](http://brianmorrisgallery.com/) invites you to attend a group exhibition launch and fundraiser, **Fragile States**, on **April 25, from 6-9PM**.
 
 Fragile States is an exploration of the physical and psychological experiences of persecution and forced displacement. The artists featured in the exhibition share a common experience of having to leave their country of origin after facing threats, violent assault, imprisonment or torture as a result of using their creative practice to voice the concerns of their communities.
 

@@ -17,7 +17,7 @@ title: "As fighting rages, four political satirists find themselves swept up in 
 type: "freedimensional"
 ---
 
-![](images/MasasitMati-300x210.jpg "MasasitMati")
+![](/freedimensional/images/MasasitMati-300x210.jpg "MasasitMati")
 
 **Witness:**
 

@@ -12,7 +12,7 @@ title: "Jenin Freedom Theatre Director Zakaria Zubeidi back on Israel's wanted l
 type: "freedimensional"
 ---
 
-[![](images/explore-juliano-zakaria-charlie-7212-300x225.jpg "explore-juliano-zakaria-charlie-721")](http://freedimensional.org/wp-content/uploads/2012/01/explore-juliano-zakaria-charlie-7212.jpg)Zakaria Zbeidi, the former commander of the Al-Aqsa Martyrs Brigades in Jenin who was pardoned by Israel two years ago, has been added to Israel's wanted list again.
+[![](/freedimensional/images/explore-juliano-zakaria-charlie-7212-300x225.jpg "explore-juliano-zakaria-charlie-721")](http://freedimensional.org/wp-content/uploads/2012/01/explore-juliano-zakaria-charlie-7212.jpg)Zakaria Zbeidi, the former commander of the Al-Aqsa Martyrs Brigades in Jenin who was pardoned by Israel two years ago, has been added to Israel's wanted list again.
 
 In recent days, Palestinian security services informed Zbeidi that upon Israel's request, he must remain in the Palestinian Authority's detention facilities during all hours of the day and night, otherwise Israel will arrest him.
 

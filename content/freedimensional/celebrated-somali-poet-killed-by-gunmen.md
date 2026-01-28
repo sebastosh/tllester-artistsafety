@@ -17,7 +17,7 @@ title: "Celebrated Somali poet killed by gunmen"
 type: "freedimensional"
 ---
 
-[![](images/awale.jpg "awale")](http://freedimensional.org/wp-content/uploads/2012/10/awale.jpg)**Popular Somali poet, playwright and songwriter Warsame Shire Awale has been killed in the capital, Mogadishu.**
+[![](/freedimensional/images/awale.jpg "awale")](http://freedimensional.org/wp-content/uploads/2012/10/awale.jpg)**Popular Somali poet, playwright and songwriter Warsame Shire Awale has been killed in the capital, Mogadishu.**
 
 **He was shot by unknown gunmen near his home on Monday evening.**
 

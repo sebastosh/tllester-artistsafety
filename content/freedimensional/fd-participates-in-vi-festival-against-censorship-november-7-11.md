@@ -16,7 +16,7 @@ title: "fD participates in VI. Festival Against Censorship - November 7-11"
 type: "freedimensional"
 ---
 
-[![](images/PROGRAMA-zentzura-DEFINITIVO1-213x300.jpg "PROGRAMA-zentzura-DEFINITIVO")](http://freedimensional.org/?attachment_id=1199)
+[![](/freedimensional/images/PROGRAMA-zentzura-DEFINITIVO1-213x300.jpg "PROGRAMA-zentzura-DEFINITIVO")](http://freedimensional.org/?attachment_id=1199)
 
 fD program coordinator Sidd Joag joins a roundtable discussion at the VI. Festival Against Censorship in Bilbao, Spain.  Now in its 6th year, the Festival is organized by the Basque production company Serrano in collaboration with FREEMUSE and in 2010 honored fD with its annual _No Censorship_ award.
 

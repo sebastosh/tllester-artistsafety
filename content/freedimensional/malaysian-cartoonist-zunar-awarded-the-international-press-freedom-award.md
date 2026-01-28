@@ -15,7 +15,7 @@ title: "Malaysian cartoonist Zunar awarded the International Press Freedom Award
 type: "freedimensional"
 ---
 
-![ipfa2015-zunar-large](images/ipfa2015-zunar-large-300x236.jpg)The personal slogan of Zulkiflee Anwar Ulhaque, a Malaysian cartoonist who is better known by his penname “Zunar,” is: “How can I be neutral? Even my pen has a stand.”
+![ipfa2015-zunar-large](/freedimensional/images/ipfa2015-zunar-large-300x236.jpg)The personal slogan of Zulkiflee Anwar Ulhaque, a Malaysian cartoonist who is better known by his penname “Zunar,” is: “How can I be neutral? Even my pen has a stand.”
 
 Zunar is best known for his provocative cartoons that lampoon issues of high-level abuse of government power and corruption. His portraits are published both in books and on the _Malaysiakini_ news website, one of the country’s few independent news publications. Malaysian police and authorities have claimed on several occasions that Zunar’s cartoons are “detrimental to public order” and run afoul of the country’s sedition law.
 

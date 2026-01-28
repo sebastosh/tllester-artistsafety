@@ -17,7 +17,7 @@ title: "Art For Health @ Project Reach NYC - 31 March 2012"
 type: "freedimensional"
 ---
 
-[![](images/Issa-300x199.jpg "Issa Nyaphaga")](http://freedimensional.org/wp-content/uploads/2010/10/Issa.jpg)Art for Health is a charity event that is hosted every spring to support innovative medical projects in Cameroon, Africa. Through art exhibitions, performance, live music, body painting, as well as slam and spoken word poetry, the artist's creative energy is channeled towards supporting health projects for indigenous communities in Sub-Saharan Africa as well as towards promoting the message of social justice and free expression for people world-wide.
+[![](/freedimensional/images/Issa-300x199.jpg "Issa Nyaphaga")](http://freedimensional.org/wp-content/uploads/2010/10/Issa.jpg)Art for Health is a charity event that is hosted every spring to support innovative medical projects in Cameroon, Africa. Through art exhibitions, performance, live music, body painting, as well as slam and spoken word poetry, the artist's creative energy is channeled towards supporting health projects for indigenous communities in Sub-Saharan Africa as well as towards promoting the message of social justice and free expression for people world-wide.
 
 Since 2009, Hope International for Tikar People, founded by Cameroonian native and activist Issa Nyaphaga and the Bush Medicine Partnership, founded by students from Drexel University College of Medicine in Philadelphia have been working together to improve the quality of life in the Tikar villages in Eastern Cameroon as well as other marginalized communities with no access to medical care. Thus far, the partnership has served the urgent health needs of over 8,000 people in the isolated tribal communities of Cameroon.
 

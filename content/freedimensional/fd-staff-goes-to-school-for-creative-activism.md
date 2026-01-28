@@ -12,7 +12,7 @@ title: "fD Staff goes to School {for Creative Activism}"
 type: "freedimensional"
 ---
 
-[![](images/sca-ny-active1-300x200.jpg "sca-ny-active")](http://freedimensional.org/2011/05/fd-staff-goes-to-school-for-creative-activism/sca-ny-active-2/)fD Management Coordinator, Dana Penrod participated in the NYC  edition of [The School for Creative Activism](http://artisticactivism.org/school-for-creative-activism/) (SCA).  SCA is a participatory workshop infusing community organizing and civic engagement with culture and creativity.  Working directly with organizers and community actors, the SCA leverages the strengths of grassroots activism and the attention grabbing and complex messaging of art through a curriculum designed to:
+[![](/freedimensional/images/sca-ny-active1-300x200.jpg "sca-ny-active")](http://freedimensional.org/2011/05/fd-staff-goes-to-school-for-creative-activism/sca-ny-active-2/)fD Management Coordinator, Dana Penrod participated in the NYC  edition of [The School for Creative Activism](http://artisticactivism.org/school-for-creative-activism/) (SCA).  SCA is a participatory workshop infusing community organizing and civic engagement with culture and creativity.  Working directly with organizers and community actors, the SCA leverages the strengths of grassroots activism and the attention grabbing and complex messaging of art through a curriculum designed to:
 
 - Teach cultural tactics and creative strategies employed effectively by organizers in the past.
 - Recognize and draw upon the cultural resources and creative [cheap oakley sunglasses](http://www.gooakley.com/ "cheap oakley sunglasses") talents residing within individuals, organizations, and communities in the present.

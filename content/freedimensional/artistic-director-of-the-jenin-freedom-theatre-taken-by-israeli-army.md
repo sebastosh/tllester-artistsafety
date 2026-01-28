@@ -16,7 +16,7 @@ title: "Artistic Director of the Jenin Freedom Theatre taken by Israeli Army"
 type: "freedimensional"
 ---
 
-![](images/4594fcf1257a6666.jpg)Press Release by The Freedom Theatre, June 6, 2012
+![](/freedimensional/images/4594fcf1257a6666.jpg)Press Release by The Freedom Theatre, June 6, 2012
 
 At approximately 03:15 am this morning the Israeli army entered the home of Nabil Al-Raee, Artistic Director of The Freedom Theatre, and took him to an unknown location.
 

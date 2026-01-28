@@ -17,7 +17,7 @@ title: "Zunar in protest of draconian Malaysian printing act"
 type: "freedimensional"
 ---
 
-[![Zunar Lawak & Lawan](images/Zunar-Lawak-Lawan-300x267.jpg)](http://freedimensional.org/wp-content/uploads/2013/01/Zunar-Lawak-Lawan.jpg)**Zunar's Press Release, 2nd January 2013**
+[![Zunar Lawak & Lawan](/freedimensional/images/Zunar-Lawak-Lawan-300x267.jpg)](http://freedimensional.org/wp-content/uploads/2013/01/Zunar-Lawak-Lawan.jpg)**Zunar's Press Release, 2nd January 2013**
 
 My latest cartoon book,"Lawak & Lawan" to protest Malaysian draconian printing act
 

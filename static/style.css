@@ -227,12 +227,18 @@ float: left;
   justify-content: space-between;
   flex-wrap: nowrap;
   align-items: flex-end;
-  margin-bottom: 2em;
-  border-bottom: 0.5px solid;
+  margin-top: 2em;
+  padding-top: 0;
+  border-top: 0.5px solid;
 }
 
-.pagination h1 {
-  margin-bottom: 0;
+.n p {
+text-align: right;
+
+}
+
+.pagination .next {
+text-align: right;
 
 }
 

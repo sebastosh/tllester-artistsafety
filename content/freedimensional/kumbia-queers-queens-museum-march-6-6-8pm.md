@@ -20,7 +20,7 @@ title: "Kumbia Queers @ Queens Museum - March 6, 6-8PM"
 type: "freedimensional"
 ---
 
-## ![foto-kq-7](images/foto-kq-7-228x300.jpg)Queens Museum - Open A.I.R. & fD present Kumbia Queers with Que Bajo: Redefining Cumbia, Love and Latinamericanidad
+## ![foto-kq-7](/freedimensional/images/foto-kq-7-228x300.jpg)Queens Museum - Open A.I.R. & fD present Kumbia Queers with Que Bajo: Redefining Cumbia, Love and Latinamericanidad
 
 ### Mar 6 2014, 6:00pm – 8:00pm
 

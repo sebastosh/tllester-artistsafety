@@ -17,7 +17,7 @@ title: "The Gezi Park Experience"
 type: "freedimensional"
 ---
 
-### [![Turkey-Resistance](images/Turkey-Resistance-300x211.jpg)](http://freedimensional.org/wp-content/uploads/2013/06/Turkey-Resistance.jpg) by Pelin Tan
+### [![Turkey-Resistance](/freedimensional/images/Turkey-Resistance-300x211.jpg)](http://freedimensional.org/wp-content/uploads/2013/06/Turkey-Resistance.jpg) by Pelin Tan
 
 _“An event is political if its material is collective, or if the event can only be attributed to a collective multiplicity.” —Alain Badiou_
 

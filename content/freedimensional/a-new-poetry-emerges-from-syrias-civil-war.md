@@ -10,7 +10,7 @@ title: "A 'new poetry' emerges from Syria's civil war"
 type: "freedimensional"
 ---
 
-### ![hala](images/hala-300x168.jpg)More literal and visceral, Syrian poetry is being spread on social media and chanted in the streets.
+### ![hala](/freedimensional/images/hala-300x168.jpg)More literal and visceral, Syrian poetry is being spread on social media and chanted in the streets.
 
 Ghada al-Atrash, a Syrian-Canadian writer and translator, has been studying Syrian poetry for decades.
 

@@ -7,7 +7,7 @@ title: "Hua Ze"
 type: "page"
 ---
 
-![hua-ze-stakeholder-fD](images/hua-ze-stakeholder-fD-229x300.jpg)Hua Ze is a documentary film director and a human rights activist. She worked for China Central Television (CCTV) for 12 years, producing more than 50 Chinese history and biography documentaries. Hua left CCTV in 2010 in order to be an independent documentary director. Additionally, she is deeply devoted to freedom of speech and human rights issues in China, making documentaries on China's civil rights movements.
+![hua-ze-stakeholder-fD](/freedimensional/images/hua-ze-stakeholder-fD-229x300.jpg)Hua Ze is a documentary film director and a human rights activist. She worked for China Central Television (CCTV) for 12 years, producing more than 50 Chinese history and biography documentaries. Hua left CCTV in 2010 in order to be an independent documentary director. Additionally, she is deeply devoted to freedom of speech and human rights issues in China, making documentaries on China's civil rights movements.
 
 In October 2010, she was kidnapped and secretly imprisoned for 55 days by the Chinese police. In early 2011 she came to the United States as a visiting scholar at Columbia University. She founded the non-profit organization “China Right in Action” in order to help Chinese human rights defenders.
 

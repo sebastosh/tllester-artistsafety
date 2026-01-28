@@ -14,7 +14,7 @@ title: "Urgent Petition: Justice for Victor Leiva !"
 type: "freedimensional"
 ---
 
-[![](images/victorleiva-235x300.jpg "victorleiva")](http://freedimensional.org/wp-content/uploads/2012/01/victorleiva.jpg)Dear friends,
+[![](/freedimensional/images/victorleiva-235x300.jpg "victorleiva")](http://freedimensional.org/wp-content/uploads/2012/01/victorleiva.jpg)Dear friends,
 
 On the 2nd February 2011 our friend Víctor Leiva, known as “_el Mono”_, left the cultural center where he was taking dance classes. Moments later a firearm cut his life short.
 

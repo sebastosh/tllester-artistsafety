@@ -20,7 +20,7 @@ title: "Dispatch: Mazen Maarouf on 'All that is banned is desired\""
 type: "freedimensional"
 ---
 
-**[![](images/mazen11.jpg "mazen1")](http://artsfreedom.org/)**
+**[![](/freedimensional/images/mazen11.jpg "mazen1")](http://artsfreedom.org/)**
 
 [**"All that is banned is desired"**](http://www.artsfreedom.org),
 

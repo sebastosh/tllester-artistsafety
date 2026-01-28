@@ -15,7 +15,7 @@ title: "Constitutional Court Admonishes Prosecutors Over Abuse Of Insult Laws As
 type: "freedimensional"
 ---
 
-**![Artist-Owen-Maseko-001](images/Artist-Owen-Maseko-001-300x180.jpg)Press Release: 30 October 2013**
+**![Artist-Owen-Maseko-001](/freedimensional/images/Artist-Owen-Maseko-001-300x180.jpg)Press Release: 30 October 2013**
 
 Zimbabwe Lawyers for Human Rights (ZLHR) is encouraged by the decisions passed on Wednesday 30 October 2013 by the Constitutional Court in two constitutional matters brought before it challenging the constitutionality of some offensive provisions of the Criminal Law (Codification and Reform) Act.
 

@@ -14,7 +14,7 @@ title: "Issa Nyaphaga - The Art of Exile {World Policy Blog #2}"
 type: "freedimensional"
 ---
 
-[![](images/Issa-300x199.jpg "Issa Nyaphaga")](http://freedimensional.org/2010/10/issa-nyaphaga-the-art-of-exile-world-policy-blog-2/issa/)Issa Nyaphaga is known as the ragman of painting. He creates art out of garbage – anything from mud and sand to feathers and human hair. Nyaphaga gives disposed items a sort of renewal.
+[![](/freedimensional/images/Issa-300x199.jpg "Issa Nyaphaga")](http://freedimensional.org/2010/10/issa-nyaphaga-the-art-of-exile-world-policy-blog-2/issa/)Issa Nyaphaga is known as the ragman of painting. He creates art out of garbage – anything from mud and sand to feathers and human hair. Nyaphaga gives disposed items a sort of renewal.
 
 But his artwork represents much darker story of rebirth. [Nyaphaga](http://www.nyaphaga.com/index2.html) was raised in a small village in the equatorial forests of Cameroon. After high school, he worked as a political cartoonist for the newspaper, _Le Messager Popoli_. In 1994, Cameroon’s regime jailed and tortured Nyaphaga for oppositional ideas expressed in his controversial cartoons. Two years later, Nyaphaga escaped Cameroon to seek asylum in France.
 

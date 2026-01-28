@@ -13,7 +13,7 @@ title: "Vaclav Havel, Dissident Playwright Who Led Czechoslovakia, Dead at 75"
 type: "freedimensional"
 ---
 
-[![](images/havel1-300x284.jpg "havel")](http://freedimensional.org/wp-content/uploads/2011/12/havel1.jpg)Vaclav Havel, the writer and dissident whose eloquent dissections of Communist rule helped to destroy it in revolutions that brought down the Berlin Wall and swept Havel himself into power, died on Sunday. He was 75.
+[![](/freedimensional/images/havel1-300x284.jpg "havel")](http://freedimensional.org/wp-content/uploads/2011/12/havel1.jpg)Vaclav Havel, the writer and dissident whose eloquent dissections of Communist rule helped to destroy it in revolutions that brought down the Berlin Wall and swept Havel himself into power, died on Sunday. He was 75.
 
 A shy yet resilient, unfailingly polite but dogged man [Oakley Sunglasses cheap](http://www.troakley.com/ "Oakley Sunglasses cheap") who articulated the power of the powerless, Mr. Havel spent five years in and out of Communist prisons, lived for two decades under close secret-police surveillance and endured the suppression of his plays and essays. He served 14 years as president, wrote 19 plays, inspired a film and a rap song and remained one of his generation’s most seductively nonconformist writers.
 

@@ -17,7 +17,7 @@ title: "ARTRAKER AWARD 2013: Call for Submissions"
 type: "freedimensional"
 ---
 
-### **[![Artraker_e-artnow](images/Artraker_e-artnow-300x200.jpg)](http://freedimensional.org/wp-content/uploads/2013/03/Artraker_e-artnow.jpg)DEADLINE: 1 May 2013**
+### **[![Artraker_e-artnow](/freedimensional/images/Artraker_e-artnow-300x200.jpg)](http://freedimensional.org/wp-content/uploads/2013/03/Artraker_e-artnow.jpg)DEADLINE: 1 May 2013**
 
 ### submissions@artraker.org
 

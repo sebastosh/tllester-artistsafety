@@ -15,7 +15,7 @@ title: "Malaysia deports Saudi journalist accused of insulting prophet in a twee
 type: "freedimensional"
 ---
 
-[![](images/hamza-kashgari-300x252.jpg "hamza-kashgari")](http://freedimensional.org/wp-content/uploads/2012/02/hamza-kashgari.jpg)The Malaysian government has defended its deportation of a Saudi journalist accused of insulting the Prophet Muhammad in a tweet
+[![](/freedimensional/images/hamza-kashgari-300x252.jpg "hamza-kashgari")](http://freedimensional.org/wp-content/uploads/2012/02/hamza-kashgari.jpg)The Malaysian government has defended its deportation of a Saudi journalist accused of insulting the Prophet Muhammad in a tweet
 
 Home Minister Hishamuddin Hussein said the deportation to Saudi Arabia was legal and that Malaysia cannot be seen as a safe haven.
 

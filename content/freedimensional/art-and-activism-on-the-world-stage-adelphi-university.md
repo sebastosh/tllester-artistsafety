@@ -19,7 +19,7 @@ title: "Art and Activism on the World Stage @ Adelphi University"
 type: "freedimensional"
 ---
 
-**![Ademola-Bello](images/Ademola-Bello.jpg)The Levermore Global Scholars Program is partnering with freeDimensional to bring guest speaker [Ademola Bello](http://www.huffingtonpost.com/ademola-bello/), an international artist, to campus.**
+**![Ademola-Bello](/freedimensional/images/Ademola-Bello.jpg)The Levermore Global Scholars Program is partnering with freeDimensional to bring guest speaker [Ademola Bello](http://www.huffingtonpost.com/ademola-bello/), an international artist, to campus.**
 
 **Thursday, December 5, 2:00–3:00 p.m**
 

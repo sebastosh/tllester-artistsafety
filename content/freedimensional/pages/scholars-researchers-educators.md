@@ -34,7 +34,7 @@ type: "page"
 - [United Nations High Commissioner for Human Rights: Declaration on Human Rights Defenders](http://www.ohchr.org/EN/Pages/WelcomePage.aspx)
 - [UNESCO: Recommendation concerning the Status of the Artist](http://portal.unesco.org/en/ev.php-URL_ID=13138&URL_DO=DO_TOPIC&URL_SECTION=201.html)
 - [International Human Rights Network](http://www.ihrnetwork.org)
-- [Plan of Action: World Programme for Human Rights Education](http://unesdoc.unesco.org/images/0014/001478/147853e.pdf) (PDF)
+- [Plan of Action: World Programme for Human Rights Education](http://unesdoc.unesco.org//freedimensional/images/0014/001478/147853e.pdf) (PDF)
 
 ## Resources for Scholars at Risk
 

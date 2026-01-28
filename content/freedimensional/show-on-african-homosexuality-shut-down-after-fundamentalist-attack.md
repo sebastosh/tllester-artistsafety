@@ -19,7 +19,7 @@ title: "Show on African homosexuality shut down after fundamentalist attack"
 type: "freedimensional"
 ---
 
-![259-senegal](images/259-senegal-300x214.jpg)
+![259-senegal](/freedimensional/images/259-senegal-300x214.jpg)
 
 ### Senegal exhibition, part of the Dak’Art Biennale, closed due to pressure from extremist Islamic groups.
 

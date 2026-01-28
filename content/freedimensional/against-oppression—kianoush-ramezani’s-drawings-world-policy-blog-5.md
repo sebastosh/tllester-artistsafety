@@ -11,7 +11,7 @@ title: "Against Oppression—Kianoush Ramezani’s Drawings {World Policy Blog #
 type: "freedimensional"
 ---
 
-[![](images/Kianoush-Ramezani-Election1-300x219.jpg "Kianoush Ramezani-Election")](http://freedimensional.org/2010/12/against-oppression%e2%80%94kianoush-ramezani%e2%80%99s-drawings-world-policy-blog-5/kianoush-ramezani-election-2/)**_Dear fD friend_****: Can you** [**make a donation**](http://freedimensional.org/get-involved/wpyearend2010/) **of $10-25 so we can continue supporting courageous artists like Kianoush in 2011?**
+[![](/freedimensional/images/Kianoush-Ramezani-Election1-300x219.jpg "Kianoush Ramezani-Election")](http://freedimensional.org/2010/12/against-oppression%e2%80%94kianoush-ramezani%e2%80%99s-drawings-world-policy-blog-5/kianoush-ramezani-election-2/)**_Dear fD friend_****: Can you** [**make a donation**](http://freedimensional.org/get-involved/wpyearend2010/) **of $10-25 so we can continue supporting courageous artists like Kianoush in 2011?**
 
 A green ribbon tied to a forlorn tree stump, its shadow creating an outline of a human hand. The index and middle finger are raised—a peace sign. This cartoon, by exiled Iranian artist Kianoush Ramezani, comments on Iran’s budding Green Movement. The movement, and the cartoon, has stirred up controversy.
 

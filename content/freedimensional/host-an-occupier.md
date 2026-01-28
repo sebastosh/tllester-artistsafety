@@ -20,7 +20,7 @@ title: "Host an Occupier Now !"
 type: "freedimensional"
 ---
 
-[![](images/hostingoccupy-300x274.png "hostingoccupy")](http://freedimensional.org/wp-content/uploads/2012/09/hostingoccupy.png)
+[![](/freedimensional/images/hostingoccupy-300x274.png "hostingoccupy")](http://freedimensional.org/wp-content/uploads/2012/09/hostingoccupy.png)
 
 fD Board members Martin Rosengaard and Todd Lester have partnered with the S17 Support Group to set up a hosting system in New York city for Occupy Wall Street's one-year anniversary weekend: **Host an Occupier.**
 

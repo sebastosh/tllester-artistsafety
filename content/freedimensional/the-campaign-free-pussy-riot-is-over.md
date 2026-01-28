@@ -17,7 +17,7 @@ title: "'The campaign \"free Pussy Riot\" is over'"
 type: "freedimensional"
 ---
 
-![pussy riot](images/pussy-riot-008-300x180.jpg)**Statement by the Anonymous members of [Pussy Riot](http://www.theguardian.com/profile/pussy-riot): Garadja, Fara, Shaiba, Cat, Seraphima and Schumacher**
+![pussy riot](/freedimensional/images/pussy-riot-008-300x180.jpg)**Statement by the Anonymous members of [Pussy Riot](http://www.theguardian.com/profile/pussy-riot): Garadja, Fara, Shaiba, Cat, Seraphima and Schumacher**
 
 We, the anonymous members of Pussy Riot, would like to say many thanks to all the people who have supported us, those who demanded the release of our members, those who sympathised with us and sympathised with our ideology. We are very grateful to all of you; we deeply appreciate and respect everyone who has contributed to the Pussy Riot campaign.
 

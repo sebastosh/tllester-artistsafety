@@ -7,7 +7,7 @@ title: "PERFORMANCE AND JUSTICE:  Representing Dangerous Truths Symposium at Joh
 type: "freedimensional"
 ---
 
-**[![header](images/header-300x111.jpg)](http://freedimensional.org/wp-content/uploads/2013/03/header.jpg)**
+**[![header](/freedimensional/images/header-300x111.jpg)](http://freedimensional.org/wp-content/uploads/2013/03/header.jpg)**
 
 **March 13, 14, &15**
 

@@ -18,7 +18,7 @@ title: "CROSSFIRE - Photographs by Shahidul Alam @ QMA - Sunday, April 15"
 type: "freedimensional"
 ---
 
-**[![](images/crossfire-poster-300x300.jpg "crossfire poster")](http://freedimensional.org/wp-content/uploads/2012/04/crossfire-poster.jpg)Forum & Opening Reception for Partnership Gallery Exhibition in Collaboration with [Drik Picture Library,](http://drik.net/) Dhaka.**
+**[![](/freedimensional/images/crossfire-poster-300x300.jpg "crossfire poster")](http://freedimensional.org/wp-content/uploads/2012/04/crossfire-poster.jpg)Forum & Opening Reception for Partnership Gallery Exhibition in Collaboration with [Drik Picture Library,](http://drik.net/) Dhaka.**
 
 Bangladeshi photographer and human rights activist Shahidul Alam’s Crossfire exhibition will open in the Partnership Gallery at the Queens Museum of Art on 15th April, 2012 and run until May 6th, 2012. The exhibition aims to gather international support for a campaign to end extra-judicial killings in Bangladesh by state forces, usually called “crossfire.”
 

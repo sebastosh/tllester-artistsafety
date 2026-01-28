@@ -7,7 +7,7 @@ title: "Dispatch: Mazen Maarouf on 'All That Is Banned Is Desired'"
 type: "page"
 ---
 
-**[![](images/mazen1.jpg "mazen1")](http://freedimensional.org/wp-content/uploads/2012/11/mazen1.jpg)[“All that is banned is desired”](http://artsfreedom.org/),**
+**[![](/freedimensional/images/mazen1.jpg "mazen1")](http://freedimensional.org/wp-content/uploads/2012/11/mazen1.jpg)[“All that is banned is desired”](http://artsfreedom.org/),**
 
 **When art turns into a reflexive power, to get banned!**
 

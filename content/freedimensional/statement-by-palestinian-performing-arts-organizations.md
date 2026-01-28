@@ -15,7 +15,7 @@ title: "Statement by Palestinian performing arts organizations"
 type: "freedimensional"
 ---
 
-![palestine solidarity](images/palestine-solidarity-300x291.png)17 July, 2014
+![palestine solidarity](/freedimensional/images/palestine-solidarity-300x291.png)17 July, 2014
 
 **We, cultural workers representing the majority of Palestinian performing art organizations, condemn the current Israeli attack and aggression on Gaza, and the indiscriminate killing and maiming of mainly civilians, among them many children and women.**
 

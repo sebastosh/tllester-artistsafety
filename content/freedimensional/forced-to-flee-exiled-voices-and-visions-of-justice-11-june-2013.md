@@ -13,7 +13,7 @@ title: "Forced to Flee: Exiled Voices and Visions for Justice - 11 June 2013"
 type: "freedimensional"
 ---
 
-## **[![545-1](images/545-1-223x300.jpg)](http://freedimensional.org/wp-content/uploads/2013/06/545-1.jpg)Forced to Flee: Exiled Voices and Visions of Justice**
+## **[![545-1](/freedimensional/images/545-1-223x300.jpg)](http://freedimensional.org/wp-content/uploads/2013/06/545-1.jpg)Forced to Flee: Exiled Voices and Visions of Justice**
 
 **Tuesday, June 11 @ 12PM PST / 3PM EST**
 

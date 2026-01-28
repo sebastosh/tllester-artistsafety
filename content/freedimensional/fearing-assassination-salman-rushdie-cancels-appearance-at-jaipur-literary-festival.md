@@ -7,7 +7,7 @@ title: "Fearing assassination, Salman Rushdie cancels appearance at Jaipur liter
 type: "freedimensional"
 ---
 
-[![](images/rushdie-232x300.jpg "rushdie")](http://freedimensional.org/wp-content/uploads/2012/01/rushdie.jpg)Salman Rushdie has canceled his talk at Jaipur's literary festival after hearing rumors that there were plans to assassinate him.
+[![](/freedimensional/images/rushdie-232x300.jpg "rushdie")](http://freedimensional.org/wp-content/uploads/2012/01/rushdie.jpg)Salman Rushdie has canceled his talk at Jaipur's literary festival after hearing rumors that there were plans to assassinate him.
 
 The controversial author was due to speak about his early work Midnight's Children at India's biggest literary festival, which began on Friday, though influential Muslim [cheap oakley sunglasses](http://www.oakleyonorder.com/ "cheap oakley sunglasses") clerics had protested his participation, [BBC News reported](http://www.bbc.co.uk/news/world-asia-india-16644782).
 

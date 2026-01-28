@@ -16,7 +16,7 @@ title: "Ai Weiwei on Tiananmen Square"
 type: "freedimensional"
 ---
 
-![ai-weiwei-tiananmen-square-b](images/ai-weiwei-tiananmen-square-b-300x192.jpg)**China Loses by Forgetting about Tiananmen Square**
+![ai-weiwei-tiananmen-square-b](/freedimensional/images/ai-weiwei-tiananmen-square-b-300x192.jpg)**China Loses by Forgetting about Tiananmen Square**
 
 **by: Ai Weiwei**
 

@@ -16,7 +16,7 @@ title: "Belarus Free Theatre, Taking up the death penalty in ‘Trash Cuisine’
 type: "freedimensional"
 ---
 
-### _**[![trashcuisin2](images/trashcuisin2.png)](http://freedimensional.org/wp-content/uploads/2013/02/trashcuisin2.png)Help Belarus Free Theatre tour an important piece of theatre, Trash Cuisine!**_
+### _**[![trashcuisin2](/freedimensional/images/trashcuisin2.png)](http://freedimensional.org/wp-content/uploads/2013/02/trashcuisin2.png)Help Belarus Free Theatre tour an important piece of theatre, Trash Cuisine!**_
 
 [**_Click here to donate a few Pounds Sterling!_**](http://www.sponsume.com/project/trash-cuisine-uk-tour-2013)
 

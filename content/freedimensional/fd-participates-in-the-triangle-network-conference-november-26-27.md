@@ -7,7 +7,7 @@ title: "fD participates in the Triangle Network Conference - November 26 & 27"
 type: "freedimensional"
 ---
 
-[![](images/networked-conf1-300x283.jpg "networked conf")](http://freedimensional.org/wp-content/uploads/2011/11/networked-conf1.jpg)fD founder Todd Lester joins a panel at 'Networked: Dialogue and Exchange in the Global Art Ecology' in London, England.
+[![](/freedimensional/images/networked-conf1-300x283.jpg "networked conf")](http://freedimensional.org/wp-content/uploads/2011/11/networked-conf1.jpg)fD founder Todd Lester joins a panel at 'Networked: Dialogue and Exchange in the Global Art Ecology' in London, England.
 
 Organized by the Triangle Network, the conference featured representatives of arts and cultural networks and organizations from around the world. Topics covered include: the principles and [http://www.raybani.com/](http://www.raybani.com/ "http://www.raybani.com/") ethics that guide cultural networks, the use of network practices in developing programs, why artists use and create networks, the environments in which networks develop and operate, support systems and challenges faced by networks, and approaches to supporting artists and grassroots initiatives.
 

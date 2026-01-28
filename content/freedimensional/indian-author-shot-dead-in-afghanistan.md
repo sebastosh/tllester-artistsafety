@@ -16,7 +16,7 @@ title: "Indian author shot dead in Afghanistan"
 type: "freedimensional"
 ---
 
-![sbanerjee](images/sbanerjee-300x198.jpg)Unidentified gunmen have shot dead an Indian author in the eastern Afghan province of Paktika, police say.
+![sbanerjee](/freedimensional/images/sbanerjee-300x198.jpg)Unidentified gunmen have shot dead an Indian author in the eastern Afghan province of Paktika, police say.
 
 **Sushmita Banerjee, the writer of a popular book about her dramatic escape from the Taliban in the 1990s, was shot dead on Wednesday night, police announced on Thursday.**
 

@@ -10,7 +10,7 @@ title: "Learning from Experience"
 type: "freedimensional"
 ---
 
-![iani 06](images/iani-06-300x287.jpg)By: Arahmaiani
+![iani 06](/freedimensional/images/iani-06-300x287.jpg)By: Arahmaiani
 
 In 1993, I was confronted by an improbable and inextricable problem. A group of people claiming to be pious Muslims “secured” 2 of my works (an installation and a painting) part of a solo exhibition titled “Sex, Religion & Coca -Cola”. They were adamant that I had committed blasphemy against Islam, because in my installation a copy of the Koran was presented next to a pack of condoms. While in the painting there were Arabic letters adjacent to the Lingga-Yoni, which was a picture of a phallus and a vagina. Their interpretation of the visualization or these works was so negative that they were compelled to without any hesitation, “secure” the works.
 

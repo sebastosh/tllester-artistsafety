@@ -15,7 +15,7 @@ title: "Nepali artist Manish Harijan faces death threats"
 type: "freedimensional"
 ---
 
-[![](images/SuperKali-300x265.jpg "SuperKali")](http://freedimensional.org/wp-content/uploads/2012/09/SuperKali.jpg)UNESCO has expressed concern at the death threats to Manish Harijan, a Nepali painter whose works are on show at one of Kathmandu’s art galleries.
+[![](/freedimensional/images/SuperKali-300x265.jpg "SuperKali")](http://freedimensional.org/wp-content/uploads/2012/09/SuperKali.jpg)UNESCO has expressed concern at the death threats to Manish Harijan, a Nepali painter whose works are on show at one of Kathmandu’s art galleries.
 
 "The right to freedom of expression must also apply to artistic expression. Tension that may arise between artistic creation and religious and ethical values should be openly discussed instead of becoming subject of intimidation or even death threat to the artist”, a press statement issued by UNESCO on Wednesday quoted Axel Plathe, Head of the UNESCO Office in Kathmandu, as saying.
 

@@ -14,4 +14,4 @@ title: "Future Residency talks @ Res Artis meeting in Montreal"
 type: "freedimensional"
 ---
 
-[![](images/ra_canada.jpg "ra_canada")](http://freedimensional.org/2010/10/future-residency-talks-res-artis-meeting-in-montreal/ra_canada/)fD director leads call-and-response panels between activists and residency innovators at the Res Artis General Meeting in Montreal, Canada (Oct 5-10).  Read more about _Future Residency - Hosting & Hospitality in the Era of Globalization_ in the [conference programme](http://resartis2010.rcaaq.org/pdf/ResArtis2010-FR+EN.pdf).
+[![](/freedimensional/images/ra_canada.jpg "ra_canada")](http://freedimensional.org/2010/10/future-residency-talks-res-artis-meeting-in-montreal/ra_canada/)fD director leads call-and-response panels between activists and residency innovators at the Res Artis General Meeting in Montreal, Canada (Oct 5-10).  Read more about _Future Residency - Hosting & Hospitality in the Era of Globalization_ in the [conference programme](http://resartis2010.rcaaq.org/pdf/ResArtis2010-FR+EN.pdf).

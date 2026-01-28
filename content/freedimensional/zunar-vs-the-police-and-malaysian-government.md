@@ -17,7 +17,7 @@ title: "Zunar vs. the police and Malaysian government"
 type: "freedimensional"
 ---
 
-**[![komik_cartoon_o_phobia_zunar](images/komik_cartoon_o_phobia_zunar-300x202.jpg)](http://freedimensional.org/wp-content/uploads/2013/06/komik_cartoon_o_phobia_zunar.jpg)Statement from Malaysia political cartoonist, Zunar. Zunar vs the police and the Malaysian government (Unlawful Detention under The Sedition Act): An appeal at the Appellate Court on the 18th June 2013**
+**[![komik_cartoon_o_phobia_zunar](/freedimensional/images/komik_cartoon_o_phobia_zunar-300x202.jpg)](http://freedimensional.org/wp-content/uploads/2013/06/komik_cartoon_o_phobia_zunar.jpg)Statement from Malaysia political cartoonist, Zunar. Zunar vs the police and the Malaysian government (Unlawful Detention under The Sedition Act): An appeal at the Appellate Court on the 18th June 2013**
 
 The Appellate Court has set 18th of June to hear my appeal on the decision of the Kuala Lumpur High Court's ruling regarding detention of me under the Sedition Act three years ago.
 

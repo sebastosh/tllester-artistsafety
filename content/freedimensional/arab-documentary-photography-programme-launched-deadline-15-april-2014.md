@@ -19,7 +19,7 @@ title: "Arab Documentary Photography Programme launched: deadline 15 April 2014"
 type: "freedimensional"
 ---
 
-![AFAC image for enewsletter](images/AFAC-image-for-enewsletter-300x175.jpg)The Arab Fund for Art and Culture and the Prince Claus Fund in Amsterdam, the Netherlands, in partnership with the Magnum Foundation in New York, USA, are launching the Arab Documentary Photography Programme (ADPP). The ADPP will run from 2014 to 2016, targeting creative documentary photographers in the Arab region. Up to 10 grantees will be selected to receive financial and professional support to complete their proposed photography projects.
+![AFAC image for enewsletter](/freedimensional/images/AFAC-image-for-enewsletter-300x175.jpg)The Arab Fund for Art and Culture and the Prince Claus Fund in Amsterdam, the Netherlands, in partnership with the Magnum Foundation in New York, USA, are launching the Arab Documentary Photography Programme (ADPP). The ADPP will run from 2014 to 2016, targeting creative documentary photographers in the Arab region. Up to 10 grantees will be selected to receive financial and professional support to complete their proposed photography projects.
 
 The focus of the Arab Documentary Photography Programme is to support compelling non-stereotypical and unconventional visual documentation of important social issues and narratives relevant to the Arab region. The ADPP will also explore ways by which such a body of work will reach out to wider audiences and engage with them in a compelling and impactful ways. Photographers may propose to work in a range of non-fiction narrative styles, from classic documentary photography to more experimental visual storytelling, and may propose to include audio and video elements.
 

@@ -17,7 +17,7 @@ title: "Burmese artists detained in Mandalay"
 type: "freedimensional"
 ---
 
-[![](images/burmeseperformers-300x168.jpg "burmeseperformers")](http://freedimensional.org/wp-content/uploads/2012/06/burmeseperformers.jpg)Seven Burmese performance artists will face charges in a Mandalay court on Thursday after they allegedly broke an obscure law last week by performing in public with five foreigners who were subsequently deported.
+[![](/freedimensional/images/burmeseperformers-300x168.jpg "burmeseperformers")](http://freedimensional.org/wp-content/uploads/2012/06/burmeseperformers.jpg)Seven Burmese performance artists will face charges in a Mandalay court on Thursday after they allegedly broke an obscure law last week by performing in public with five foreigners who were subsequently deported.
 
 Officials from Mandalay’s Police Station No. 2 charged the seven artists on Tuesday with violating Section 11 of the 1964 Library, Museum and Exhibition Monitoring Act for performing near the north side of Mandalay’s moat on May 24.
 

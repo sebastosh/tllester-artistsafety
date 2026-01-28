@@ -17,7 +17,7 @@ type: "freedimensional"
 
  
 
-[![](images/zunar_FACaward2011_2JPG2-300x199.jpg "zunar bilboa 2011")](http://freedimensional.org/2011/11/vi-festival-against-censorship-honors-fd-stakeholder-zunar-with-the-2011-courage-to-fight-censorship-award/sony-dsc-3/)**BILBAO, Spain. November 10, 2011 -** 
+[![](/freedimensional/images/zunar_FACaward2011_2JPG2-300x199.jpg "zunar bilboa 2011")](http://freedimensional.org/2011/11/vi-festival-against-censorship-honors-fd-stakeholder-zunar-with-the-2011-courage-to-fight-censorship-award/sony-dsc-3/)**BILBAO, Spain. November 10, 2011 -** 
 
 **ZUNAR a.k.a. Zulkiflee Anwar Haque, who has been drawing  editorial cartoons for the past 20 years in Malaysia, was awarded the "Courage To Fight Censorship" Award at the VI. Festival Against Censorship.**
 

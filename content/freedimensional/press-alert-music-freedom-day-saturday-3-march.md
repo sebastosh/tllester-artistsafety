@@ -18,7 +18,7 @@ title: "Press alert: Music Freedom Day - Saturday 3 March"
 type: "freedimensional"
 ---
 
-**[![](images/ims1-207x300.jpg "ims")](http://www.impossiblemusic.org/session-5.html)**
+**[![](/freedimensional/images/ims1-207x300.jpg "ims")](http://www.impossiblemusic.org/session-5.html)**
 
 **Press alert: Music Freedom Day**  **\- a global manifestation for freedom of expression for musicians on Saturday 3 March**
 

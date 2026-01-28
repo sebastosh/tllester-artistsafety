@@ -15,7 +15,7 @@ title: "Call for the release of filmmaker Orwa Nyrabia by the Syrian authorities
 type: "freedimensional"
 ---
 
-[![](images/Orwa-Nyrabia-208x300.jpg "Syrian filmmakers, Diana El Jeiroudi (R)")](http://freedimensional.org/wp-content/uploads/2012/08/Orwa-Nyrabia.jpg)Syrian filmmaker and producer Orwa Nyrabia was arrested in Damascus International Airport while traveling to Cairo at noon on Thursday, August 23rd, 2012. Nyrabia’s family still have no information about the reasons for his detention and his whereabouts are still unknown.  freeDimensional joins the Nyrabia family and the international community calling for the immediate release of our friend and colleague **Orwa Nyrabia.**
+[![](/freedimensional/images/Orwa-Nyrabia-208x300.jpg "Syrian filmmakers, Diana El Jeiroudi (R)")](http://freedimensional.org/wp-content/uploads/2012/08/Orwa-Nyrabia.jpg)Syrian filmmaker and producer Orwa Nyrabia was arrested in Damascus International Airport while traveling to Cairo at noon on Thursday, August 23rd, 2012. Nyrabia’s family still have no information about the reasons for his detention and his whereabouts are still unknown.  freeDimensional joins the Nyrabia family and the international community calling for the immediate release of our friend and colleague **Orwa Nyrabia.**
 
 Nyrabia graduated from the Higher Institute of Dramatic Arts in Damascus in 1999. He participated at the Cannes Film Festival in 2004 for his lead-role in the film "The Gate of the Sun" by Yousry Nasrallah which was based on the Lebanese Elias Khoury's novel.
 

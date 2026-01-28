@@ -10,13 +10,13 @@ type: "page"
 
 # Fund Creative Resistance!
 
-![](images/CRF-Kianoush-300x214.jpg "CRF-Kianoush")
+![](/freedimensional/images/CRF-Kianoush-300x214.jpg "CRF-Kianoush")
 
-   ![](images/pixel-paypal.jpg)
+   ![](/freedimensional/images/pixel-paypal.jpg)
 
 **In 2010, Reporters sans Frontières notified freeDimensional that Kianoush Ramezani, Iranian cartoonist and chronicler of the Green Movement, was stuck in Paris without a place to sleep as he awaited political asylum status.**
 
-> ![](images/IMG_3464.jpg "Kianoush peace")When I found myself in Paris, I was surrounded by a bubble. I couldn't communicate with the people. I couldn't understand even one word. In that situation, I needed to continue my way as a cartoonist. I should keep myself alive. And the thing most needed for me was "hope" and "motivation." Now I am an official member of one of the most important cartoon organizations in France and I can create my new cartoons. freeDimensional gave me strong wings with its grant so I could keep going. I will never forget these wings.
+> ![](/freedimensional/images/IMG_3464.jpg "Kianoush peace")When I found myself in Paris, I was surrounded by a bubble. I couldn't communicate with the people. I couldn't understand even one word. In that situation, I needed to continue my way as a cartoonist. I should keep myself alive. And the thing most needed for me was "hope" and "motivation." Now I am an official member of one of the most important cartoon organizations in France and I can create my new cartoons. freeDimensional gave me strong wings with its grant so I could keep going. I will never forget these wings.
 
 Each year, hundreds of culture workers are violently assaulted for pursuing social change through their art forms: as community leaders and role models, they lose their jobs; face arbitrary imprisonment; and are sometimes killed for speaking truth to power.
 
@@ -28,7 +28,7 @@ With your support, we can take on more cases like Kianoush Ramezani's. You can h
 
 **Click here to donate to the Creative Resistance Fund:**
 
-   ![](images/pixel-paypal.jpg)
+   ![](/freedimensional/images/pixel-paypal.jpg)
 
 Or, send a check to us at the following address: freeDimensional P.O. Box 2 New York, New York 10276 U.S.A.
 

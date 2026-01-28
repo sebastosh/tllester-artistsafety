@@ -18,7 +18,7 @@ title: "'Public Secrets' - Performance & Screening - Saturday, January 11 6-9PM"
 type: "freedimensional"
 ---
 
-**![1217925152_Arahmaiani_2](images/1217925152_Arahmaiani_2-300x196.jpg)‘Public Secrets’: Arts, Culture and Contemporary Indonesian Politics after the Fall of Suharto**
+**![1217925152_Arahmaiani_2](/freedimensional/images/1217925152_Arahmaiani_2-300x196.jpg)‘Public Secrets’: Arts, Culture and Contemporary Indonesian Politics after the Fall of Suharto**
 
 Location: Project Reach NYC. 39 Eldridge Street, 4FL. New York NY, 10002
 

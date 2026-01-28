@@ -18,7 +18,7 @@ title: "2013 ART for HEALTH Benefit - May 24, 6:30-9:30PM @ Project Reach NYC"
 type: "freedimensional"
 ---
 
-## [![Art for Health 2013 flyer](images/Art-for-Health-2013-flyer-300x200.jpg)](https://www.facebook.com/events/340244576098375/?fref=ts)Save the Date: Friday, May 24 6:30-9:30PM
+## [![Art for Health 2013 flyer](/freedimensional/images/Art-for-Health-2013-flyer-300x200.jpg)](https://www.facebook.com/events/340244576098375/?fref=ts)Save the Date: Friday, May 24 6:30-9:30PM
 
 Join us at [Project Reach](http://www.projectreachnyc.org/) in Chinatown, New York City for an art exhibit, silent auction and performance to fund a mobile clinic this summer in rural villages in Cameroon.
 

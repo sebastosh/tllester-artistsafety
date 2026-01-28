@@ -14,7 +14,7 @@ title: "fD joins international community in condemning the attacks on Charlie He
 type: "freedimensional"
 ---
 
-![france-shooting](images/france-shooting-300x200.jpg)In the wake of the deadly attacks on Charlie Hebdo in Paris last week, we recognize more than ever the need to uphold the fundamental principles of free expression, open communication, and a respect for differing points of view by creating spaces for dialogue and deep reflection. We join our colleagues around the world in condemning the killing of these artists and in supporting their families. - the fD team
+![france-shooting](/freedimensional/images/france-shooting-300x200.jpg)In the wake of the deadly attacks on Charlie Hebdo in Paris last week, we recognize more than ever the need to uphold the fundamental principles of free expression, open communication, and a respect for differing points of view by creating spaces for dialogue and deep reflection. We join our colleagues around the world in condemning the killing of these artists and in supporting their families. - the fD team
 
  
 

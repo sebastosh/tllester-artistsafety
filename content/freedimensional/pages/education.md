@@ -10,7 +10,7 @@ type: "page"
 - [Scholars at Risk Network](http://www.scholarsatrisk.nyu.edu/)
 - [Scholar Rescue Fund - International Institute of Boston](http://www.iie.org/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z)
 - [International Human Rights Network](http://www.ihrnetwork.org)
-- [Plan of Action: World Programme for Human Rights Education](http://unesdoc.unesco.org/images/0014/001478/147853e.pdf) (PDF)
+- [Plan of Action: World Programme for Human Rights Education](http://unesdoc.unesco.org//freedimensional/images/0014/001478/147853e.pdf) (PDF)
 - [Council for Assisting Refugee Academics (CARA)](http://www.academic-refugees.org/)
 - [Network for Education and Academic Rights (NEAR)](http://www.nearinternational.org)
 - [Peace Education Center](http://www.tc.edu/PeaceEd/)

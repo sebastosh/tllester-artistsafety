@@ -16,7 +16,7 @@ title: "Salvadorian performance artist faces prison for eating his ballot card :
 type: "freedimensional"
 ---
 
-[![crack_main](images/crack_main-300x162.png)](https://secure.avaaz.org/en/petition/El_Salvador_Legal_Authorities_Keep_Victor_Rodriguez_out_of_jail/?fbss)[https://secure.avaaz.org/en/petition/El\_Salvador\_Legal\_Authorities\_Keep\_Victor\_Rodriguez\_out\_of\_jail/?fbss](https://secure.avaaz.org/en/petition/El_Salvador_Legal_Authorities_Keep_Victor_Rodriguez_out_of_jail/?fbss)
+[![crack_main](/freedimensional/images/crack_main-300x162.png)](https://secure.avaaz.org/en/petition/El_Salvador_Legal_Authorities_Keep_Victor_Rodriguez_out_of_jail/?fbss)[https://secure.avaaz.org/en/petition/El\_Salvador\_Legal\_Authorities\_Keep\_Victor\_Rodriguez\_out\_of\_jail/?fbss](https://secure.avaaz.org/en/petition/El_Salvador_Legal_Authorities_Keep_Victor_Rodriguez_out_of_jail/?fbss)
 
 Víctor “Crack” Rodríguez is facing up to six years in prison for a performance piece.   After the general election in El Salvador that split the winning left party from the right by a margin of less than 1% percent, tensions in the country are high, especially amongst the nation’s community of artists, who are rallying to defend Rodríguez, one of San Salvador’s celebrated contemporary artists.
 

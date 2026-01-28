@@ -15,7 +15,7 @@ title: "Malaysian High Court rules against political cartoonist Zunar"
 type: "freedimensional"
 ---
 
-**[![](images/kartun-baru-BS-300x214.gif "kartun baru BS")](http://freedimensional.org/wp-content/uploads/2012/08/kartun-baru-BS.gif)A statement by Malaysian political cartoonist Zunar in response to the court ruling regarding his detention -  1 st August 2012**
+**[![](/freedimensional/images/kartun-baru-BS-300x214.gif "kartun baru BS")](http://freedimensional.org/wp-content/uploads/2012/08/kartun-baru-BS.gif)A statement by Malaysian political cartoonist Zunar in response to the court ruling regarding his detention -  1 st August 2012**
 
 I am extremely disappointed with the Malaysian High Court’s ruling that my detention under the Sedition Act in September 2010 was according to the law.
 

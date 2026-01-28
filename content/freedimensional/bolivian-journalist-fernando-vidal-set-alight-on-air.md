@@ -17,7 +17,7 @@ title: "Bolivian journalist Fernando Vidal set alight on air"
 type: "freedimensional"
 ---
 
-[![](images/bolivia-300x168.gif "bolivia")](http://freedimensional.org/wp-content/uploads/2012/10/bolivia.gif)A Bolivian radio journalist has been attacked while he was conducting a radio show in the southern city of Yacuiba.
+[![](/freedimensional/images/bolivia-300x168.gif "bolivia")](http://freedimensional.org/wp-content/uploads/2012/10/bolivia.gif)A Bolivian radio journalist has been attacked while he was conducting a radio show in the southern city of Yacuiba.
 
 Staff at Radio Popular said four masked men broke into the studio, poured petrol over presenter Fernando Vidal and set him alight.
 

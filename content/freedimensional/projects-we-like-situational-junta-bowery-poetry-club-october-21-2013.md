@@ -18,7 +18,7 @@ title: "Projects We Like: SITUATIONAL JUNTA @ Bowery Poetry Club - October 21, 2
 type: "freedimensional"
 ---
 
-**![sjbowery](images/sjbowery-300x138.jpg)Emcee: Negin Farsad Main Dish: Alex White Mazzarella & Artefacting With: Caron Atlas, Stephanie Gooel, Brian Halloran, Niki Singleton, Lawman Lynch, Chloe Bass, Dave Ruder, Abigail Levine and Wen-shaun Yang**
+**![sjbowery](/freedimensional/images/sjbowery-300x138.jpg)Emcee: Negin Farsad Main Dish: Alex White Mazzarella & Artefacting With: Caron Atlas, Stephanie Gooel, Brian Halloran, Niki Singleton, Lawman Lynch, Chloe Bass, Dave Ruder, Abigail Levine and Wen-shaun Yang**
 
 **Location: Bowery Poetry Time: 6-8pm $10**
 

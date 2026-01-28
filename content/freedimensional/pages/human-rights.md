@@ -75,7 +75,7 @@ type: "page"
 - [United Nations High Commissioner for Human Rights: Declaration on Human Rights Defenders](http://www.ohchr.org/EN/Pages/WelcomePage.aspx)
 - [Residencies: Spaces+Artists+Managers+Communities](http://www.asef.org/index.php?Itemid=112&id=67&option=com_publication&task=view)
 - [Cour pénale internationale: guide pratique à l'usage des victimes](http://www.rsf.org/IMG/pdf/guide_CPI_A4_fr.pdf)
-- [UNESCO Universal Declaration on Cultural Diversity](http://unesdoc.unesco.org/images/0012/001271/127160m.pdf)
+- [UNESCO Universal Declaration on Cultural Diversity](http://unesdoc.unesco.org//freedimensional/images/0012/001271/127160m.pdf)
 - [10 Tactics for Turning Information into Action](http://www.informationactivism.org/)
 
 ## Related Resources

@@ -18,7 +18,7 @@ title: "Statement by Malaysian Political Cartoonist, Zunar: \"MALAYSIA BANS CART
 type: "freedimensional"
 ---
 
-[![](images/zunar-300x202.jpg "zunar")](http://freedimensional.org/wp-content/uploads/2012/06/zunar.jpg)STATEMENT:
+[![](/freedimensional/images/zunar-300x202.jpg "zunar")](http://freedimensional.org/wp-content/uploads/2012/06/zunar.jpg)STATEMENT:
 
 I would like to refer to the ruling made by the Election Commission of Malaysia which bans the use of cartoons in the campaigns for the up-coming General Election. (General election's date in Malaysia can only be decided by the Prime Minister, but must be called before the current term ends in March 2013).
 
@@ -34,4 +34,4 @@ I am ready to face the consequences!
 
 Zunar 10 June 2012
 
-![](images/cleardot.gif)
+![](/freedimensional/images/cleardot.gif)

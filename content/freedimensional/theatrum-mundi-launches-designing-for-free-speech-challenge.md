@@ -15,7 +15,7 @@ title: "Theatrum Mundi launches “Designing for Free Speech” challenge"
 type: "freedimensional"
 ---
 
-![Free-speech-TM1](images/Free-speech-TM1-300x144.jpg)Theatrum Mundi, in partnership with the American Institute of Architects, New York, has launched a “Designing for Free Speech” challenge. The challenge asks architects, designers, activists, artists — and anyone interested in imagining new spaces in the city for free expression — to identify public spaces in New York City and propose re-designs that transform them into places that activate the rights enshrined in the First Amendment.
+![Free-speech-TM1](/freedimensional/images/Free-speech-TM1-300x144.jpg)Theatrum Mundi, in partnership with the American Institute of Architects, New York, has launched a “Designing for Free Speech” challenge. The challenge asks architects, designers, activists, artists — and anyone interested in imagining new spaces in the city for free expression — to identify public spaces in New York City and propose re-designs that transform them into places that activate the rights enshrined in the First Amendment.
 
 Applicants will propose architectural or performative designs (temporary or permanent) that transform spaces in New York City into places for public “demonstration.” This challenge is about re-imagining and idealizing existing spaces that have the potential for animating the public, especially spaces that are not traditionally considered in this frame. Submissions will be accepted through March 31, 2014.
 

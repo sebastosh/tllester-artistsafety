@@ -16,7 +16,7 @@ title: "Eight charged with Victor Jara's 1973 murder in Chile"
 type: "freedimensional"
 ---
 
-[![victorjara](images/victorjara-300x300.jpg)](http://freedimensional.org/wp-content/uploads/2012/12/victorjara.jpg)SANTIAGO, Chile — Eight retired army officers were charged on Friday with the murder of a popular songwriter and theater director, Víctor Jara, who was tortured and killed days after the 1973 military coup in a stadium that had been turned into a detention center.
+[![victorjara](/freedimensional/images/victorjara-300x300.jpg)](http://freedimensional.org/wp-content/uploads/2012/12/victorjara.jpg)SANTIAGO, Chile — Eight retired army officers were charged on Friday with the murder of a popular songwriter and theater director, Víctor Jara, who was tortured and killed days after the 1973 military coup in a stadium that had been turned into a detention center.
 
 Judge Miguel Vásquez charged two of the former officers, Pedro Barrientos and Hugo Sánchez, with committing the murder and six others as accomplices. Mr. Sánchez, a lieutenant colonel, was second in command at the stadium. Mr. Barrientos, a lieutenant from a Tejas Verdes army unit, currently lives in Deltona, a city southwest of Daytona Beach, Fla., and was interrogated by the F.B.I. earlier this year at the request of a Chilean court. Attempts to reach Mr. Barrientos for comment were unsuccessful; his two listed telephone numbers had been disconnected.
 

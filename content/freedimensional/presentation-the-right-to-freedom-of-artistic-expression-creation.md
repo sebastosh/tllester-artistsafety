@@ -19,7 +19,7 @@ title: "Presentation: The Right to Freedom of Artistic Expression & Creation"
 type: "freedimensional"
 ---
 
-**![IndependentExpert](images/IndependentExpert.jpg)Arts/Rights/Justice Working Group presents UN Special Rapporteur on Cultural Rights Report on The Right to Freedom of Artistic Expression & Creation - October 2 - Brussels**
+**![IndependentExpert](/freedimensional/images/IndependentExpert.jpg)Arts/Rights/Justice Working Group presents UN Special Rapporteur on Cultural Rights Report on The Right to Freedom of Artistic Expression & Creation - October 2 - Brussels**
 
 The presentation of the UN Report, “The Right to Freedom of Artistic Expression and Creation” at the European Parliament in Brussels on **2nd October 2013, from 11:30-14:30** in the Paul Henri Spaak Building, Room P5B001.  Presenting the report will be its author, Mme Farida Shaheed, UN Special Rapporteur in the field of Cultural Rights.
 

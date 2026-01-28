@@ -17,7 +17,7 @@ title: "Ukrainian Museum Director Destroys Critical Painting Ahead Of President'
 type: "freedimensional"
 ---
 
-![ukbanpt](images/ukbanpt-300x168.jpg)Natalia Zabolotna's primary job as director of the Mystetskyi Arsenal art museum in Kyiv was to oversee the pieces under her roof.
+![ukbanpt](/freedimensional/images/ukbanpt-300x168.jpg)Natalia Zabolotna's primary job as director of the Mystetskyi Arsenal art museum in Kyiv was to oversee the pieces under her roof.
 
 But on July 25, the night before a visit by President Viktor Yanukovych and the opening of an exhibit meant to celebrate Ukrainian heritage, she took a can of black paint and doused a piece that she deemed "immoral."
 

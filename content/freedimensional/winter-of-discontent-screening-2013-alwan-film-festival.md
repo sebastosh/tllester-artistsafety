@@ -21,7 +21,7 @@ title: "'Winter of Discontent' screening @ 2013 Alwan Film Festival"
 type: "freedimensional"
 ---
 
-**_[![winter_of_discontent_press](images/winter_of_discontent_press-300x168.jpg)](http://freedimensional.org/wp-content/uploads/2013/04/winter_of_discontent_press.jpg)Winter of Discontent_ screening @ 2013 Alwan Film Festival Thursday May 2, 6:30 PM - Anthology Film Archives**
+**_[![winter_of_discontent_press](/freedimensional/images/winter_of_discontent_press-300x168.jpg)](http://freedimensional.org/wp-content/uploads/2013/04/winter_of_discontent_press.jpg)Winter of Discontent_ screening @ 2013 Alwan Film Festival Thursday May 2, 6:30 PM - Anthology Film Archives**
 
 ### **Co-presented by freeDimensional**
 

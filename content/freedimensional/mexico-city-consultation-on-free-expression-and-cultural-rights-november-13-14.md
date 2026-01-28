@@ -18,7 +18,7 @@ title: "Mexico City Consultation on Free Expression and Cultural Rights - Novemb
 type: "freedimensional"
 ---
 
-**![ccemx_logo_web_22012013](images/ccemx_logo_web_22012013-300x231.jpg)On November 13 & 14, fD in partnership with El Centro Cultural de Espana in Mexico is hosting a two day consultation meeting on free expression and cultural rights in Mexico and Central America. 45 representatives from the arts, culture and human rights sectors will attend the consultation to exchange experiences, issues and problems, and mechanisms of support as they relate to different forms of creative activism.**
+**![ccemx_logo_web_22012013](/freedimensional/images/ccemx_logo_web_22012013-300x231.jpg)On November 13 & 14, fD in partnership with El Centro Cultural de Espana in Mexico is hosting a two day consultation meeting on free expression and cultural rights in Mexico and Central America. 45 representatives from the arts, culture and human rights sectors will attend the consultation to exchange experiences, issues and problems, and mechanisms of support as they relate to different forms of creative activism.**
 
 What: 2-day consultation / workshop with artists, culture workers and activists from Mexico and Central America
 

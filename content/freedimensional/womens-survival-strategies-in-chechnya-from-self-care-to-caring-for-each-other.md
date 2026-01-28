@@ -20,7 +20,7 @@ type: "freedimensional"
 
 by Keely Tongate
 
-![Chechnyan refugees](images/Chechnyan%20refugee%20women.jpg)
+![Chechnyan refugees](/freedimensional/images/Chechnyan%20refugee%20women.jpg)
 
 Luiza has seen many attempts to silence Chechen human rights activists.
 

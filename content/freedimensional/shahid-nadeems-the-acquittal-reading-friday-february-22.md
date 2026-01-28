@@ -17,7 +17,7 @@ title: "Shahid Nadeem's THE ACQUITTAL reading - Friday, February 22"
 type: "freedimensional"
 ---
 
-![unnamed](images/unnamed-300x243.jpg)Castillo Theatre presents a play reading of:
+![unnamed](/freedimensional/images/unnamed-300x243.jpg)Castillo Theatre presents a play reading of:
 
 _**The Acquittal**_ by Shahid Nadeem // reading directed by Dan Friedman
 

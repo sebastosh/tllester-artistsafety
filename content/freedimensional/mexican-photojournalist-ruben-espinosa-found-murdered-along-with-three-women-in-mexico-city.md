@@ -17,7 +17,7 @@ title: "Mexican photojournalist Ruben Espinosa found murdered along with three w
 type: "freedimensional"
 ---
 
-![REspinosa_guardian](images/REspinosa_guardian-300x180.jpg)A photojournalist [who was found dead in Mexico City](http://www.theguardian.com/world/2015/aug/02/mexican-photojournalist-ruben-espinosa-found-dead-in-capital) after he fled harassment in his home state appears to have been tortured before he was shot dead, the head of a free press advocacy group said on Sunday.
+![REspinosa_guardian](/freedimensional/images/REspinosa_guardian-300x180.jpg)A photojournalist [who was found dead in Mexico City](http://www.theguardian.com/world/2015/aug/02/mexican-photojournalist-ruben-espinosa-found-dead-in-capital) after he fled harassment in his home state appears to have been tortured before he was shot dead, the head of a free press advocacy group said on Sunday.
 
 Ruben Espinosa sustained severe injuries to his face before he was killed, said Dario Ramirez, director of the Article 19 group.
 

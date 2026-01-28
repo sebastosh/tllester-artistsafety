@@ -174,7 +174,7 @@ Additionally, these resources for activists and culture workers in need of suppo
 ## Assistance from Academia
 
 - [International Human Rights Network](http://www.ihrnetwork.org)
-- [Plan of Action: World Programme for Human Rights Education](http://unesdoc.unesco.org/images/0014/001478/147853e.pdf) (PDF)
+- [Plan of Action: World Programme for Human Rights Education](http://unesdoc.unesco.org//freedimensional/images/0014/001478/147853e.pdf) (PDF)
 - [Council for Assisting Refugee Academics (CARA)](http://www.academic-refugees.org/)
 - [Network for Education and Academic Rights (NEAR)](http://www.nearinternational.org)
 - [Peace Education Center](http://www.tc.edu/PeaceEd/)
@@ -237,7 +237,7 @@ Additionally, these resources for activists and culture workers in need of suppo
 - [United Nations High Commissioner for Human Rights: Declaration on Human Rights Defenders](http://www.ohchr.org/EN/Pages/WelcomePage.aspx)
 - [Residencies: Spaces+Artists+Managers+Communities](http://www.asef.org/index.php?Itemid=112&id=67&option=com_publication&task=view)
 - [Cour pénale internationale: guide pratique à l'usage des victimes](http://www.rsf.org/IMG/pdf/guide_CPI_A4_fr.pdf)
-- [UNESCO Universal Declaration on Cultural Diversity](http://unesdoc.unesco.org/images/0012/001271/127160m.pdf)
+- [UNESCO Universal Declaration on Cultural Diversity](http://unesdoc.unesco.org//freedimensional/images/0012/001271/127160m.pdf)
 - [10 Tactics for Turning Information into Action](http://www.informationactivism.org/)
 
 ## Related Networks & Resources

@@ -17,7 +17,7 @@ title: "Call for Entries: CENSURADOS Film Festival - Lima, Peru"
 type: "freedimensional"
 ---
 
-### **![logo-censurados](images/logo-censurados-300x229.jpg)“The story that is behind a censored film can help us to understand better our society”**
+### **![logo-censurados](/freedimensional/images/logo-censurados-300x229.jpg)“The story that is behind a censored film can help us to understand better our society”**
 
 CENSURADOS Film Festival will take place in Lima (Peru) on December 2013 with the aim to give voice to those fiction, documentary and animation films that have been censored in different countries for political, religious, sexual or environmental reasons, among others. The Festival wants to open a new space for directors and producers that their films have been prohibited and wants to know and talk about the story that is behind each censure. Since the beginning of cinema many films and scenes have been prohibited by different social, religious and political groups. Yet in 1894 we can find the first images censored in United States (“Carmencita”) that were prohibited by two local politicians because the scene shown the underskirt of the dancer. Others films such Clockwork Orange and The Great Dictator were also censored in the past and nowadays are some of the greatest films of cinema’s history. These are only some examples of how the censure has been very close to the history of the cinema and the documentary films.
 

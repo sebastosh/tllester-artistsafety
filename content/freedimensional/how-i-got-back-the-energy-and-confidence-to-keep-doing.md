@@ -15,7 +15,7 @@ title: "How I got back the energy and confidence to keep doing..."
 type: "freedimensional"
 ---
 
-[![ChawEiCompressed](images/ChawEiCompressed-300x218.jpeg)](http://freedimensional.org/get-involved/)By: Chaw Ei Thein
+[![ChawEiCompressed](/freedimensional/images/ChawEiCompressed-300x218.jpeg)](http://freedimensional.org/get-involved/)By: Chaw Ei Thein
 
 In 2006, I came to New York for a yearlong artist residency program and during that time, I was warned that my safety could not be assured if I were to return to Burma. The reason I could not return was my artwork, interviews I had given with the international media and newspaper articles about my work as it related to a critique of the political situation in Burma at that time. Unable to return home, I was facing very difficult time settling in to life in New York; I was totally frustrated and very worried about how to live, find a way to survive and uncertain as to whether I could continue my career as an artist in this new place with its new challenges.
 

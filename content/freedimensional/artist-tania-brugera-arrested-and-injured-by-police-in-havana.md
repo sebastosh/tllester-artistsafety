@@ -16,7 +16,7 @@ title: "Artist Tania Brugera arrested and injured by police in Havana"
 type: "freedimensional"
 ---
 
-![Bruguera-bruises](images/Bruguera-bruises-300x211.jpg)
+![Bruguera-bruises](/freedimensional/images/Bruguera-bruises-300x211.jpg)
 
 - by [Jillian Steinhauer](http://hyperallergic.com/author/jillian-steinhauer/)
     

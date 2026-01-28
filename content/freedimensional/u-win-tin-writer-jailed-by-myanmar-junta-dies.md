@@ -16,7 +16,7 @@ title: "U Win Tin, Writer Jailed by Myanmar Junta, Dies"
 type: "freedimensional"
 ---
 
-![TIN-OBIT-1-master675](images/TIN-OBIT-1-master675-300x226.jpg)U Win Tin, a journalist, author and poet who became a leading opponent of the military rulers of [Myanmar](http://topics.nytimes.com/top/news/international/countriesandterritories/myanmar/index.html?inline=nyt-geo "More news and information about Myanmar."), where he was imprisoned and tortured for 19 years, died on Monday in Yangon, formerly Rangoon. Sources differ on whether he was 84 or 85.
+![TIN-OBIT-1-master675](/freedimensional/images/TIN-OBIT-1-master675-300x226.jpg)U Win Tin, a journalist, author and poet who became a leading opponent of the military rulers of [Myanmar](http://topics.nytimes.com/top/news/international/countriesandterritories/myanmar/index.html?inline=nyt-geo "More news and information about Myanmar."), where he was imprisoned and tortured for 19 years, died on Monday in Yangon, formerly Rangoon. Sources differ on whether he was 84 or 85.
 
 The political party he helped found, the National League for Democracy, announced the death. Reports in the local news media said his kidneys and other organs had failed.
 
