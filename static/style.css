@@ -89,6 +89,11 @@ header {
   align-items: center;
 }
 
+header img {
+  width: 100%;
+  margin-bottom: 2em;
+}
+
 
 .title {
     margin: 0;
@@ -183,11 +188,6 @@ main img {
 .content a {
   text-decoration: underline;
 }
-
-.about {
-  width: 60%;
-}
-
 
 .post img{
       max-width: 100%;

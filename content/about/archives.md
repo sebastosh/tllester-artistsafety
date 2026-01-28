@@ -4,7 +4,7 @@ date: 2016-10-05
 id: 38
 slug: "archives"
 title: "archives"
-type: "page"
+type: "about"
 ---
 
 **IETM Satellite Beirut / International Campaign for Freedom of Expression (October 2016)**

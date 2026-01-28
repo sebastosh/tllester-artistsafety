@@ -2,10 +2,12 @@
 author: "jupago"
 date: 2016-09-28
 id: 6
-slug: "about"
+slug: "a"
 title: "about"
 type: "about"
 ---
+
+## a hybrid consultancy and volunteer network supproting artists on the frontlines of social change
 
 ArtistSafety.net is a hybrid consultancy and volunteer network that provides case management for artists and culture workers at risk due to their work, as well as information services to projects and organisations in the arts, free expression, journalism, and human rights fields. While utilizing the [freeDimensional](http://www.freedimensional.org) methodology, resource and knowledge bases developed over ten years of direct service and advocacy, ArtistSafety.net acknowledges that no single organization can adequately respond to the high volume of cases that continually emerge. As such Artistsafety.net employs a horizontal, rhizomatic approach to harnessing the existing resources and expertise of partner networks and organizations – locally, regionally and internationally – creating a volunteer-based, professional system of peer advocacy and emergency response, thereby increasing the efficacy of support for individuals at risk and, ultimately, maximizing their impact as catalysts for social change.
 

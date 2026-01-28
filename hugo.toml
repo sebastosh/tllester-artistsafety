@@ -4,6 +4,11 @@ title = 'Artist Safety'
 
 [params]
   description = 'a hybrid consultancy and volunteer network supproting artists on the frontlines of social change'
+  logo = 'asn-crf.png'
+
+# [params.logo]
+# path = 'asn-crf.png' # in assets directory
+# alt = 'Welcome to Artist Safety'
 
 [menus]
   [[menus.main]]
