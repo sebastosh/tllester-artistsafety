@@ -1,8 +1,7 @@
-+++
-title = "Example posts"
-sort_by = "date"
-template = "posts.html"
-page_template = "post.html"
-+++
+---
+author: "fdadmin"
+date: 2010-10-01
+id: 5
+title: "Posts"
+---
 
-Here are some example posts. The posts are grouped by year.

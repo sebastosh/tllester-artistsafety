@@ -1,41 +1,15 @@
 {{ define "main" }}
 
-<div class="post-header">
-  <h1>
-    Latest
-  </h1>
-</div>
-
   {{ .Content }}
 
-
-
   <div class="content-grid">
-    {{ range first 3 (sort .Site.Pages "Date" "desc" (where .Site.Pages "Section" "pages")) }}
-            <div class="content-card">
+    {{ range first 6 (sort .Site.Pages "Date" "desc" (where .Site.Pages "Section" "about")) }}
               <a href="{{ .Permalink }}">
                  <h2 class="grid-card-title">{{ .LinkTitle }}</h2>
             </a>
-            </div>
+
 
   {{ end }}
   </div>
-
-  <div class="more">
-      {{ $currentPage := . }}
-    {{ range .Site.Menus.main }}
-      {{ if eq .Weight 10 }}
-
-      <a href="{{ .URL | relLangURL }}" aria-current="page" aria-label="{{ i18n .Identifier | default .Name }}">
-        {{ .Pre | markdownify }}{{ T "more" | default "more" }}
-      </a>
-
-      {{ end }}
-    {{ end }}
-  </div>
-
-
-
-
 
 {{ end }}

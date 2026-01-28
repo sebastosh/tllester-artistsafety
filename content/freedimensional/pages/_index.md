@@ -1,8 +1,8 @@
-+++
-title = "Example pages"
-sort_by = "date"
-template = "pages.html"
-page_template = "page.html"
-+++
+---
+author: "fdadmin"
+date: 2010-10-01
+id: 5
+title: "Pages"
+---
 
 Here are some example pages. The pages are grouped by year.

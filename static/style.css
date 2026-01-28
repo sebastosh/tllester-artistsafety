@@ -1,10 +1,8 @@
 @font-face {
   font-family: "Atkinson Hyperlegible";
   src:
-    url("/fonts/Atkinson_Hyperlegible_Next/TTF/AtkinsonHyperlegibleNext-Regular.ttf")
-      format("truetype"),
-    url("/fonts/Atkinson_Hyperlegible_Next/WOFF2/AtkinsonHyperlegibleNext-Regular.woff2")
-      format("woff2");
+    url("/fonts/Atkinson_Hyperlegible_Next/TTF/AtkinsonHyperlegibleNext-Regular.ttf") format("truetype"),
+    url("/fonts/Atkinson_Hyperlegible_Next/WOFF2/AtkinsonHyperlegibleNext-Regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
@@ -12,10 +10,8 @@
 @font-face {
   font-family: "Atkinson Hyperlegible";
   src:
-    url("/fonts/Atkinson_Hyperlegible_Next/TTF/AtkinsonHyperlegibleNext-RegularItalic.ttf")
-      format("truetype"),
-    url("/fonts/Atkinson_Hyperlegible_Next/WOFF2/AtkinsonHyperlegibleNext-RegularItalic.woff2")
-      format("woff2");
+    url("/fonts/Atkinson_Hyperlegible_Next/TTF/AtkinsonHyperlegibleNext-RegularItalic.ttf") format("truetype"),
+    url("/fonts/Atkinson_Hyperlegible_Next/WOFF2/AtkinsonHyperlegibleNext-RegularItalic.woff2") format("woff2");
   font-weight: normal;
   font-style: italic;
 }
@@ -23,10 +19,8 @@
 @font-face {
   font-family: "Atkinson Hyperlegible";
   src:
-    url("/fonts/Atkinson_Hyperlegible_Next/TTF/AtkinsonHyperlegibleNext-Bold.ttf")
-      format("truetype"),
-    url("/fonts/Atkinson_Hyperlegible_Next/WOFF2/AtkinsonHyperlegibleNext-Bold.woff2")
-      format("woff2");
+    url("/fonts/Atkinson_Hyperlegible_Next/TTF/AtkinsonHyperlegibleNext-Bold.ttf") format("truetype"),
+    url("/fonts/Atkinson_Hyperlegible_Next/WOFF2/AtkinsonHyperlegibleNext-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
 }
@@ -54,7 +48,7 @@ html {
 
 body {
   height: 95vh;
-  width: 1024px;
+  width: 768px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -62,13 +56,13 @@ body {
   justify-content: space-between;
 }
 
-.theme-toggle {
-  font-size: 2rem;
-  transition: all var(--global-transition-time) ease-in-out;
-  cursor: pointer;
-  background-color: var(--color-bg);
-  border: none;
+main {
+      display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
 }
+
 
 a,
 a:visited {
@@ -87,41 +81,42 @@ a:active {
 /* Header */
 
 header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0 0 1em 0;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.title {
+    margin: 0;
+  text-align: center;
     display: flex;
-    justify-content: space-between;
-    width: 100%;
-    margin: 0 0 1em 0;
-    flex-direction: column;
+justify-content: flex-start;
     align-items: center;
+    flex-wrap: nowrap;
 }
 
-.title h1 {
-  margin: 0;
-      text-align: center;
-}
-
-.title p {
-  margin: 0;
-  font-size: 1.2em;
-}
 
 nav {
   display: flex;
   align-items: center;
 }
 
-nav > * {
+nav>* {
   border: 1px solid var(--a-color);
   margin: 0 0 0 0.35em;
   padding: 10px 10px;
   font-size: 20px;
 }
 
-nav > a:hover {
+nav>a:hover {
   border: 1px solid var(--ahover-color);
 }
 
-.dropdown {
+/* .dropdown {
   display: inline-block;
   border: none !important;
 }
@@ -141,12 +136,12 @@ nav > a:hover {
 
 .dropdown-content a {
   padding: 10px 12px;
-  /* color: var(--ahover-color); */
+  /* color: var(--ahover-color); 
   text-decoration: none;
   display: block;
   font-size: 18px;
 }
-
+*/
 .dropdown-content a:hover {
   /* background-color: var(--bg-color); */
   color: var(--ahover-color);
@@ -154,7 +149,7 @@ nav > a:hover {
 
 .dropdown:hover .dropdown-content {
   display: block;
-}
+} */
 
 /* Main */
 
@@ -166,84 +161,27 @@ main {
   align-items: center;
 }
 
-.bio {
-  margin-top: 1em;
-  width: 100%;
-  margin-top: 1em;
-}
-
-.bio-card {
-  display: flex;
-  gap: 3em;
-  align-items: center;
-}
-
-.bio-summary {
-  text-align: justify;
-  line-height: 1.4;
-}
-
-.button {
-  line-height: 1;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  gap: 0.35em;
-  padding: 0.75em 1.5em;
-  padding-right: 1.25em;
-  color: #fff;
-  border: none !important;
-  font-weight: 700;
-  border-radius: 2em;
-  font-size: 1rem;
-  box-shadow: 0 0.7em 1.5em -0.5em hsl(0deg 0% 50%);
-  transition: transform 0.3s;
-
-  background: linear-gradient(
-    90deg,
-    rgb(185, 194, 235) 0%,
-    rgb(128, 143, 160) 100%
-  );
-}
-
-.button__icon {
-  width: 1.5em;
-  height: 1.5em;
-}
-
-.button:hover {
-  border-color: #f4f5f2;
-}
-
-.button:active {
-  transform: scale(0.98);
-  box-shadow: 0 0.5em 1.5em -0.5em hsla(249, 62%, 51%, 0.745);
-}
-
-.bio h3 {
-  padding-inline-start: 20px;
-}
-
-.bio ul {
-  margin: 0 !important;
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-}
-
-.bio ul li {
-  display: block;
-  border: 1px solid;
-  padding: 10px;
-  margin: 5px;
-}
-
-main .page {
-  width: 100%;
-}
-
 main img {
   border: 1px solid;
+}
+
+.content {
+  width: 720px;
+  margin: 1em;
+  line-height: 1.5;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.content a {
+  text-decoration: underline;
+}
+
+.page {
+  width: 60%;
 }
 
 .work-header {
@@ -254,7 +192,24 @@ main img {
 
 .work-header h1 {
   margin: 0;
-      text-align: center;
+  text-align: center;
+}
+
+/* Work Grid */
+
+.content-grid {
+  padding: 1.5em 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}
+
+.grid-card-title {
+  margin: 0;
+  line-height: 1.7;
+  font-size: 24px;
 }
 
 /* Work pagination */
@@ -269,27 +224,12 @@ main img {
   border-bottom: 0.5px solid;
 }
 
-.pagination h1{
+.pagination h1 {
   margin-bottom: 0;
 
 }
 
-/* Work Grid */
 
-.content-grid {
-  padding: 1.5em 0;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 35px;
-}
-
-.grid-card-title {
-  margin: 0;
-  line-height: 1.7;
-  font-size: 24px;
-}
 
 /* page.html */
 
@@ -331,13 +271,6 @@ main img {
   border: none !important;
 }
 
-.content {
-  margin: 2em;
-  line-height: 1.5;
-}
-.content a {
-text-decoration: underline;
-}
 .more {
   margin: 1.3em 0 1em 0;
   padding: 0.7em;
@@ -365,7 +298,7 @@ footer {
     gap: 1em;
   }
 
-  header > nav > * {
+  header>nav>* {
     margin: 0;
   }
 

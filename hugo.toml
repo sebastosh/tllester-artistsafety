@@ -7,25 +7,30 @@ title = 'Artist Safety'
 
 [menus]
   [[menus.main]]
+    identifier = 'about'
+    name = 'About'
+    url = 'about/'
+    weight = 10
+  [[menus.main]]
     identifier = 'freedimensional'
     name = 'FreeDimensional'
     url = 'freedimensional/'
-    weight = 10
+    weight = 20
   [[menus.main]]
     identifier = 'creativeresistancefund'
     name = 'Creative Resistance Fund'
     url = 'creativeresistancefund/'
-    weight = 20
-  [[menus.main]]
-    identifier = 'about'
-    name = 'About'
-    url = 'about/'
-    weight = 40
-  [[menus.main]]
-    identifier = 'tags'
-    name = 'tags'
-    url  = 'tags/'
-    weight = 50
+    weight = 30
+    [[menus.main]]
+    identifier = 'Search'
+    name = 'Search'
+    url = 'search/'
+    weight = 30
+  # [[menus.main]]
+  #   identifier = 'tags'
+  #   name = 'tags'
+  #   url  = 'tags/'
+  #   weight = 40
 
   # [[menus.main]]
   #   identifier = 'language'
