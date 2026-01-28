@@ -9,7 +9,7 @@ tags:
   - "david-blair"
   - "detroit"
 title: "Detroit: A tribute to multi-faceted artist, David Blair"
-type: "post"
+type: "freedimensional"
 ---
 
 [![](images/david-blair.jpg "david blair")](http://creativeresistancefund.org/2011/09/detroit-a-tribute-to-multi-faceted-artist-david-blair/david-blair/)On July 23, 2011, Detroit lost an award-winning, multi-faceted artist: singer-songwriter, poet, writer, performer, musician, community activist and teacher David Blair. While Blair performed all over the world and has friends on almost every continent, Detroit was his home. As Metro Times writer Travis Wright wrote, â€œ He loved this city and that love was reciprocated. They had claimed each other more than a decade ago. â€œ

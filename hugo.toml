@@ -26,6 +26,7 @@ title = 'Artist Safety'
     name = 'Search'
     url = 'search/'
     weight = 30
+
   # [[menus.main]]
   #   identifier = 'tags'
   #   name = 'tags'

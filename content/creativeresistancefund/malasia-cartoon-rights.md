@@ -8,7 +8,7 @@ slug: "malasia-cartoon-rights"
 tags: 
   - "zunar"
 title: "Malaysia: Cartoon Rights Network statement against banning of Zunar's political cartoons"
-type: "post"
+type: "freedimensional"
 ---
 
 [![](images/1FUNNY-MALAYSIA-cover-300x212.jpg "Cover Final - Create outline")](http://creativeresistancefund.org/2011/07/malasia-cartoon-rights/cover-final-create-outline/)For the last 10 years the government of Malaysia has been seeking to silence one of the more popular political cartoonists in Kuala Lumpur: Zulkiflee Anwar Ulhaque, better known as Zunar. In the past two years he has been arrested and detained, his office has been raided, his cartoons books have been seized, and his publishers and editors have been prevented from publishing his cartoons. Zunar recently took the government to court appealing last year's decision to ban his books.Â On 14 July 2011, the High Court in Kuala Lumpur decided to uphold last year's banning of his political cartoon books and dismissed his appeal.

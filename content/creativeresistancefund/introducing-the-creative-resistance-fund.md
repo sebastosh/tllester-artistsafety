@@ -10,7 +10,7 @@ tags:
   - "grantees"
   - "iran"
 title: "Introducing the Creative Resistance Fund"
-type: "post"
+type: "freedimensional"
 ---
 
 This site is the new online home of the Creative Resistance Fund, a project of [freeDimensional](http://freedimensional.org/). Welcome!

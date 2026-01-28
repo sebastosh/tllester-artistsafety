@@ -1,19 +1,16 @@
 {{ define "main" }}
   <div class="page">
     
-    <h1>{{ .Title }} Default PAGE</h1>
+    <h1>{{ .Title }}</h1>
 
 
       <div class="page-meta">
 
 
-        {{ if .Params.organization }}
-        <div>{{ .Params.organization }}</div>
+        {{ if .Params.author }}
+        <div>{{ .Params.author }}</div>
         {{ end }}
 
-        {{ if .Params.position }}
-        <div>{{ .Params.position }}</div>
-        {{ end }}
 
         {{ if .Date }}
           <div>
@@ -22,15 +19,11 @@
             {{ end }}
             {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
             {{ $startdateMachine := .Params.datestart | time.Format "2006-01-02T15:04:05-07:00" }}
-            {{ if .Params.datestart }}
-              (<time datetime="{{ $startdateMachine }}">{{ .Params.datestart.Format "Jan 2006" }}</time> - <time datetime="{{ $dateMachine }}">{{ .Date.Format "Jan 2006" }}</time>)
-            {{ else }}
-              (<time datetime="{{ $dateMachine }}">{{ .Date.Format "Jan 2006" }}</time>)
-            {{ end }}
+
+            <time datetime="{{ $dateMachine }}">{{ .Date.Format "Jan 2006" }}</time>
+
           </div>
         {{ end }}
-
-        {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 
         {{ if .Params.externalurl }}
           <a href="{{ .Params.externalurl }}" target="_blank">🔗  {{ .Params.externalurl }}</a>
@@ -46,9 +39,9 @@
       </div>
 
 
-    <div class="content">
+ 
       {{ .Content }}
-    </div>
+ 
       {{ partial "post-pagination.html" . }}
   </div>
 

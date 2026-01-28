@@ -2,7 +2,7 @@
 
 
 
-    <div class="content">
+    <div class="page">
         <h1>{{ .Page.Title }}</h1>
         {{ if and (isset .Params "image") .Params.image.src }}
             {{ $image := .Page.Resources.GetMatch .Params.image.src }}

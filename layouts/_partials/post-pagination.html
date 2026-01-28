@@ -1,4 +1,5 @@
 {{ if or .NextInSection .PrevInSection }}
+<div class="paginate">
 <div class="pagination">
 
     {{ if .NextInSection }}
@@ -21,6 +22,28 @@
         <span> </span>
     {{ end }}
 
+</div>
+<div class="pagination">
+
+    {{ if .NextInSection }}
+        <a href="{{ .NextInSection.Permalink }}">
+            <span>← {{ .NextInSection.Title }}</span>
+        </a>
+    {{ else }}
+        <span> </span>
+    {{ end }}
+
+
+
+    {{ if .PrevInSection }}
+        <a href="{{ .PrevInSection.Permalink }}">
+            <span>{{ .PrevInSection.Title }} →</span>
+        </a>
+    {{ else }}
+        <span> </span>
+    {{ end }}
+
+</div>
 </div>
 
 {{ end }}

@@ -4,7 +4,7 @@ date: 2013-05-14
 id: 83
 slug: "astraea-lesbian-justice-foundation-announces-global-arts-fund"
 title: "Astraea Lesbian Justice Foundation announces Global Arts Fund"
-type: "post"
+type: "freedimensional"
 ---
 
 **[![astraea](images/astraea.png)](http://creativeresistancefund.org/wp-content/uploads/2013/05/astraea.png)New York, NY, May 13, 2013**â€”We believe arts and cultural expression is a necessary and extraordinary tool for social change. This month, we launch our new Global Arts Fund with the goal to support, showcase, and connect impactful art by LGBTQI people and organizations with limited access to resources, who use art as a tool for social transformation. In an endeavor to support the arts across mediums and disciplines, the fund will consider submissions in all artistic expressions: video, film, poetry, fictional prose, photography, painting, performance, dance, theater, music and any interdisciplinary expressions.
