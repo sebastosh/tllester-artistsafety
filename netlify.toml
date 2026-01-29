@@ -11,7 +11,5 @@ TZ = "America/Mexico_City"
 # publish = "public"
 # command = """\
 #   git config core.quotepath false && \
-#   hugo --gc --minify && pm_config_yes=true npx pagefind --site "public"
+#   hugo --gc --minify --baseURL "${URL}"
 #   """
-
-  

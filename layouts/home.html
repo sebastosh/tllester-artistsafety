@@ -2,6 +2,15 @@
 
   {{ .Content }}
 
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
+
   <div class="content-grid">
     {{ range first 6 (sort .Site.Pages "Date" "desc" (where .Site.Pages "Section" "about")) }}
               <a href="{{ .Permalink }}">
