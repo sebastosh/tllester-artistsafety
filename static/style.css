@@ -64,11 +64,12 @@ body {
     align-items: flex-start;
     border-bottom: 1px solid;
     margin: 0 0 1em 0;
+    padding-bottom: 1em;
 }
 
 
 .theme-switch {
-  margin: 10px;
+  margin: 0 10px;
   border: none;
   font-size: 2em;
   background-color: transparent;
