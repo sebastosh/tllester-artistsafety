@@ -3,8 +3,13 @@ DART_SASS_VERSION = "1.93.2"
 GO_VERSION = "1.25.3"
 HUGO_VERSION = "0.152.2"
 NODE_VERSION = "22.20.0"
-TZ = "Europe/Oslo"
+TZ = "America/Mexico_City"
 
 [build]
-command = "hugo --gc --minify && pnpm dlx pagefind --source public"
-  publish = "public"
+publish = "public"
+command = """\
+  git config core.quotepath false && \
+  hugo --gc --minify && pm_config_yes=true npx pagefind --site "public"
+  """
+
+  
