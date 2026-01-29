@@ -26,11 +26,11 @@ title = 'Artist Safety'
     name = 'Creative Resistance Fund'
     url = 'creativeresistancefund/'
     weight = 30
-    [[menus.main]]
-    identifier = 'Search'
-    name = 'Search'
-    url = 'search/'
-    weight = 30
+    # [[menus.main]]
+    # identifier = 'Search'
+    # name = 'Search'
+    # url = 'search/'
+    # weight = 30
 
   # [[menus.main]]
   #   identifier = 'tags'
