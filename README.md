@@ -1,6 +1,6 @@
 # tllester-artistsafety
 
-Running Pagefind
+- Running Pagefind
 
 `alias hs='rm -rf public && npx -y pagefind --site public --serve`
 
