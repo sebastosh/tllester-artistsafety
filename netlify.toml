@@ -8,8 +8,3 @@ TZ = "America/Mexico_City"
 [build]
   command = "hugo --gc --minify && pnpm dlx pagefind --source public"
   publish = "public"
-# publish = "public"
-# command = """\
-#   git config core.quotepath false && \
-#   hugo --gc --minify --baseURL "${URL}"
-#   """
