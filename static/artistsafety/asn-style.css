@@ -19,12 +19,14 @@
 .asn-header {
   position: relative;
   padding: 20px 0;
+      margin: 0.67em auto;
+    max-width: 720px;
 }
 
 .asn-branding {
   max-width: 460px;
-  margin: 0 auto;
-  text-align: center;
+  margin: 0;
+  text-align: left;
 }
 
 .asn-branding img {
@@ -75,6 +77,7 @@
 .asn-main {
   max-width: 1024px;
   margin: 20px auto;
+  padding: 0;
 }
 
 /* Headings */
@@ -82,7 +85,8 @@
   font-size: 2em;
   font-weight: 700;
   color: #6AADE4;
-  margin: 0.67em 0;
+    margin: 0.67em auto;
+    max-width: 720px;
 }
 
 .asn-main h2 {
@@ -150,52 +154,64 @@
   margin: 2em 0;
 }
 
-/* Homepage header area */
+/* Homepage header area — absolute positioning matching original WP theme */
 .asn-home-header {
   position: relative;
   max-width: 1024px;
   margin: 20px auto;
-  min-height: 500px;
+  height: 700px;
 }
 
-/* Homepage project grid */
-.asn-projects {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-  position: relative;
-  z-index: 10;
+/* Red network SVG background */
+.asn-redgrid {
+  position: absolute;
+  top: -20px;
+  left: 30px;
+  width: 940px;
+  height: auto;
+  z-index: 1;
+      border: none;
 }
 
-.asn-project-card {
-  text-align: center;
-}
-
-.asn-project-card a {
+/* Project cards — absolutely positioned over the red grid */
+.asn-gridproject {
+  position: absolute;
+  z-index: 100;
   display: block;
-  text-decoration: none;
-  color: #404040;
 }
 
-.asn-project-card img {
-  max-width: 100%;
+.asn-gridproject img {
+  width: 100%;
   height: auto;
   border: none;
 }
 
-.asn-project-card:hover img {
+.asn-gridproject:hover img {
   opacity: 0.85;
 }
 
-/* Red network graphic */
-.asn-network-graphic {
-  text-align: center;
-  margin: 30px 0;
+.asn-project1 {
+  width: 270px;
+  top: 148px;
+  left: 161px;
 }
 
-.asn-network-graphic img {
-  max-width: 100%;
-  height: auto;
+.asn-project2 {
+  width: 291px;
+  top: 79px;
+  left: 482px;
+}
+
+.asn-project3 {
+  width: 256px;
+  top: 380px;
+  left: 212px;
+}
+
+.asn-project4 {
+  width: 277px;
+  top: 354px;
+  left: 513px;
 }
 
 /* Page navigation list */

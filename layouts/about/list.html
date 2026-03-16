@@ -1,34 +1,20 @@
 {{ define "main" }}
 
-{{/* Project cards grid matching original artistsafety.net homepage */}}
+{{/* Homepage hero with absolutely positioned project cards over red network SVG */}}
 <div class="asn-home-header">
-  <div class="asn-projects">
-    <div class="asn-project-card">
-      <a href="{{ "/artistsafety/research/" | relURL }}">
-        <img src="{{ "/artistsafety/images/asn-research.png" | relURL }}" alt="Research">
-      </a>
-    </div>
-    <div class="asn-project-card">
-      <a href="{{ "/artistsafety/documentation/" | relURL }}">
-        <img src="{{ "/artistsafety/images/asn-documentation.png" | relURL }}" alt="Documentation">
-      </a>
-    </div>
-    <div class="asn-project-card">
-      <a href="{{ "/artistsafety/case-management/" | relURL }}">
-        <img src="{{ "/artistsafety/images/asn-casemanagement.png" | relURL }}" alt="Case Management">
-      </a>
-    </div>
-    <div class="asn-project-card">
-      <a href="{{ "/artistsafety/training/" | relURL }}">
-        <img src="{{ "/artistsafety/images/asn-training.png" | relURL }}" alt="Training">
-      </a>
-    </div>
-  </div>
-
-  {{/* Red network graphic */}}
-  <div class="asn-network-graphic">
-    <img src="{{ "/artistsafety/images/asn-rednet.svg" | relURL }}" alt="Artist Safety Network">
-  </div>
+  <img class="asn-redgrid" src="{{ "/artistsafety/images/asn-rednet.svg" | relURL }}" alt="">
+  <a href="{{ "/artistsafety/research/" | relURL }}" class="asn-gridproject asn-project1">
+    <img src="{{ "/artistsafety/images/asn-research.png" | relURL }}" alt="Research">
+  </a>
+  <a href="{{ "/artistsafety/documentation/" | relURL }}" class="asn-gridproject asn-project2">
+    <img src="{{ "/artistsafety/images/asn-documentation.png" | relURL }}" alt="Documentation">
+  </a>
+  <a href="{{ "/artistsafety/case-management/" | relURL }}" class="asn-gridproject asn-project3">
+    <img src="{{ "/artistsafety/images/asn-casemanagement.png" | relURL }}" alt="Case Management">
+  </a>
+  <a href="{{ "/artistsafety/training/" | relURL }}" class="asn-gridproject asn-project4">
+    <img src="{{ "/artistsafety/images/asn-training.png" | relURL }}" alt="Training">
+  </a>
 </div>
 
 {{/* About content */}}
