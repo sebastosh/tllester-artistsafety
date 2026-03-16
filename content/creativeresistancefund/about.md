@@ -4,7 +4,7 @@ date: 2010-10-04
 id: 12
 slug: "about"
 title: "About"
-type: "page"
+type: "creativeresistancefund"
 ---
 
 [Apply here.](http://freedimensional.org/services/distress-services/distress-services-intake-form/)

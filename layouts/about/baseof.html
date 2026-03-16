@@ -2,7 +2,7 @@
 <html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
 <head>
   {{ partial "head.html" . }}
-  <link rel="stylesheet" href="/artistsafety/asn-style.css">
+  <link rel="stylesheet" href="/artistsafety/asn-style.css?v=2">
   <style>
     html, body {
       background: #fff;
@@ -13,6 +13,7 @@
       height: auto;
       display: block;
       color: #404040;
+      
     }
     /* Override base styles for ASN section */
     header, footer, main, nav {
@@ -44,8 +45,7 @@
     {{/* Navigation */}}
     <nav class="asn-nav">
       <ul>
-        <li><a href="{{ "/artistsafety/" | relURL }}">about</a></li>
-        <li><a href="{{ "/artistsafety/contact/" | relURL }}">contact</a></li>
+        <li><a href="{{ "/artistsafety/about/" | relURL }}">about</a></li>
         <li><a href="{{ "/artistsafety/archives/" | relURL }}">archives</a></li>
         <li><a href="{{ "/artistsafety/training/" | relURL }}">training</a></li>
         <li><a href="{{ "/artistsafety/research/" | relURL }}">research</a></li>
@@ -61,13 +61,8 @@
 
     {{/* Footer */}}
     <footer class="asn-footer">
-      <div class="asn-footer-menu">
-        <a href="{{ "/artistsafety/" | relURL }}">about</a>
-        <a href="{{ "/artistsafety/contact/" | relURL }}">contact</a>
-        <a href="{{ "/artistsafety/archives/" | relURL }}">archives</a>
-      </div>
       <div class="asn-footer-copy">
-        &copy; {{ now.Year }} ArtistSafety.net
+        &copy;  ArtistSafety.net
       </div>
     </footer>
 
