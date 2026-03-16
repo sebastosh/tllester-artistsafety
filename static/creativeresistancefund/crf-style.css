@@ -277,6 +277,26 @@
   border: none;
 }
 
+.crf-donate-btn {
+  display: inline-block;
+  background: #333;
+  color: #fff !important;
+  font-size: 1.2em;
+  font-family: Georgia, serif;
+  padding: 8px 20px;
+  border-radius: 5px;
+  text-decoration: none !important;
+}
+
+.crf-donate-btn:hover {
+  background: #555;
+  color: #fff !important;
+}
+
+.crf-donate-btn strong {
+  color: #f33;
+}
+
 .crf-case-study-name {
   display: block;
   color: #f33;
