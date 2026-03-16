@@ -4,7 +4,7 @@ date: 2013-06-21
 id: 1440
 slug: "scholars-researchers-educators"
 title: "Scholars, researchers & educators"
-type: "page"
+type: "freedimensional"
 ---
 
 ## Human Rights Fellowships and Programs

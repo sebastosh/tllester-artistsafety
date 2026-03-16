@@ -4,7 +4,7 @@ date: 2012-11-27
 id: 1348
 slug: "dispatch-mazen-maarouf-on-all-that-is-banned-is-desired"
 title: "Dispatch: Mazen Maarouf on 'All That Is Banned Is Desired'"
-type: "page"
+type: "freedimensional"
 ---
 
 **[![](/freedimensional/images/mazen1.jpg "mazen1")](http://freedimensional.org/wp-content/uploads/2012/11/mazen1.jpg)[“All that is banned is desired”](http://artsfreedom.org/),**

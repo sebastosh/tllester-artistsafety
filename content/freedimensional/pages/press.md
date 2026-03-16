@@ -4,7 +4,7 @@ date: 2010-10-05
 id: 93
 slug: "press"
 title: "Press"
-type: "page"
+type: "freedimensional"
 ---
 
 For media inquiries, please contact fD at [communications@freedimensional.org](mailto:communications@freedimensional.org).

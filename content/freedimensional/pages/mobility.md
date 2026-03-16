@@ -4,7 +4,7 @@ date: 2013-06-21
 id: 1436
 slug: "mobility"
 title: "Travel / Mobility / Immigration"
-type: "page"
+type: "freedimensional"
 ---
 
 ## Mobility

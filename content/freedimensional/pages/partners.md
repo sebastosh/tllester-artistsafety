@@ -4,7 +4,7 @@ date: 2010-10-05
 id: 111
 slug: "partners"
 title: "Partners"
-type: "page"
+type: "freedimensional"
 ---
 
 ![](/freedimensional/images/Residency-Unlimited_logo1.png "Residency Unlimited_logo")

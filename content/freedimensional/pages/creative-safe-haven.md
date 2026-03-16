@@ -4,7 +4,7 @@ date: 2010-10-06
 id: 179
 slug: "creative-safe-haven"
 title: "Creative Safe Haven"
-type: "page"
+type: "freedimensional"
 ---
 
 Individuals seeking Creative Safe Haven (or their nominators) are required to complete our intake form. This enables us to better understand the case and determine if we can be of assistance. Due to a high case volume, the typical time needed to assess a case ranges from 1 to 3 weeks. Unfortunately, we are not able to take up every case that we learn about. Through this program, we may respond by:

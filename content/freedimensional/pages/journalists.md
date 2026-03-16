@@ -4,7 +4,7 @@ date: 2013-06-21
 id: 1445
 slug: "journalists"
 title: "Journalists and media makers"
-type: "page"
+type: "freedimensional"
 ---
 
 - [Tim Hetherington Grant - Photographers Documenting Human Rights Issues](http://www.worldpressphoto.org/tim-hetherington-grant)

@@ -4,7 +4,7 @@ date: 2013-06-21
 id: 1434
 slug: "health"
 title: "Mental & Physical Health"
-type: "page"
+type: "freedimensional"
 ---
 
 - [Life Skills Manual (a guide to health education)](http://www.peacecorps.gov/multimedia/pdf/library/M0063_lifeskillscomplete.pdf)

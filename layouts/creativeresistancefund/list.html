@@ -1,40 +1,18 @@
 {{ define "main" }}
-    <h1>{{ .Page.Title }}</h1>
-    {{ .Content }}
 
-<div class="content">
+<div class="crf-pagetitle">{{ .Title }}</div>
 
-    {{/*  <div class="post">
-        {{ $fdPosts := site.GetPage "posts" }}
-    {{ range $fdPosts.RegularPagesRecursive }}
-    <div class="post">
-    <h3><a href="{{ .Permalink }}" title="{{ .Title }}">
-        {{ .Title }}</a></h3>
-   <p>{{ .Summary }}</p>
+<div class="crf-post-list">
+  {{ range sort .RegularPages "Date" "desc" }}
+    {{ if not .Params.private }}
+    <div class="crf-post-entry">
+      <div class="crf-date">{{ .Date.Format "January 2, 2006" }}</div>
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <div class="crf-excerpt">{{ .Summary }}</div>
+      <div style="clear: both;"></div>
     </div>
     {{ end }}
-
-</div>  */}}
-
-    <div class="post">
-        {{ range sort .Pages "Date" "desc" }}
-        {{ if not .Params.private }}
-
-            <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .PublishDate.Format "Jan. 2, 2006" }} - 
-                {{ .Title }}</a></h1>
-            <p>{{ .Summary }}</p>
-        {{ end }}
-    {{ end }}
+  {{ end }}
 </div>
-
-
-
-
-
-
-
-</div>
-
-
 
 {{ end }}

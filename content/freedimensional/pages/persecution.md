@@ -4,7 +4,7 @@ date: 2013-06-21
 id: 1433
 slug: "persecution"
 title: "Persecution / Harassment"
-type: "page"
+type: "freedimensional"
 ---
 
 [Click here to apply for distress services.](http://freedimensional.org/services/distress-services/)

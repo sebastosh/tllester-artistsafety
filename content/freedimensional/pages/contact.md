@@ -4,7 +4,7 @@ date: 2010-10-05
 id: 108
 slug: "contact"
 title: "Contact"
-type: "page"
+type: "freedimensional"
 ---
 
 freeDimensional 360 Court Street, Unit 4 Brooklyn, NY 11231 United States

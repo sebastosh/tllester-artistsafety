@@ -4,7 +4,7 @@ date: 2010-10-05
 id: 65
 slug: "people"
 title: "People"
-type: "page"
+type: "freedimensional"
 ---
 
 ## Team

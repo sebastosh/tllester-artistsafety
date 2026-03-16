@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+  <link rel="stylesheet" href="/artistsafety/asn-style.css">
+  <style>
+    html, body {
+      background: #fff;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: auto;
+      display: block;
+      color: #404040;
+    }
+    /* Override base styles for ASN section */
+    header, footer, main, nav {
+      all: unset;
+      display: block;
+    }
+    a, a:visited {
+      color: #ed1c24;
+      text-decoration: none;
+    }
+    a:hover {
+      color: midnightblue;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="asn-site">
+
+    {{/* Header */}}
+    <header class="asn-header">
+      <div class="asn-branding">
+        <a href="{{ "/artistsafety/" | relURL }}">
+          <img src="{{ "/artistsafety/images/asn-logo-wordmark.png" | relURL }}" alt="ArtistSafety.net">
+        </a>
+      </div>
+    </header>
+
+    {{/* Navigation */}}
+    <nav class="asn-nav">
+      <ul>
+        <li><a href="{{ "/artistsafety/" | relURL }}">about</a></li>
+        <li><a href="{{ "/artistsafety/contact/" | relURL }}">contact</a></li>
+        <li><a href="{{ "/artistsafety/archives/" | relURL }}">archives</a></li>
+        <li><a href="{{ "/artistsafety/training/" | relURL }}">training</a></li>
+        <li><a href="{{ "/artistsafety/research/" | relURL }}">research</a></li>
+        <li><a href="{{ "/artistsafety/documentation/" | relURL }}">documentation</a></li>
+        <li><a href="{{ "/artistsafety/case-management/" | relURL }}">case management</a></li>
+      </ul>
+    </nav>
+
+    {{/* Main Content */}}
+    <main class="asn-main">
+      {{ block "main" . }}{{ end }}
+    </main>
+
+    {{/* Footer */}}
+    <footer class="asn-footer">
+      <div class="asn-footer-menu">
+        <a href="{{ "/artistsafety/" | relURL }}">about</a>
+        <a href="{{ "/artistsafety/contact/" | relURL }}">contact</a>
+        <a href="{{ "/artistsafety/archives/" | relURL }}">archives</a>
+      </div>
+      <div class="asn-footer-copy">
+        &copy; {{ now.Year }} ArtistSafety.net
+      </div>
+    </footer>
+
+  </div>
+
+</body>
+</html>

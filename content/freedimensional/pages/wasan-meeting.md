@@ -4,7 +4,7 @@ date: 2010-12-07
 id: 487
 slug: "wasan-meeting"
 title: "Wasan Meeting"
-type: "page"
+type: "freedimensional"
 ---
 
 The [Breuninger Stiftung](http://www.breuninger-stiftung.de) provides training support and technical assistance to freeDimensional each summer by hosting the network at its [Wasan Island](http://www.wasan-island.de) conference facility in Canada.

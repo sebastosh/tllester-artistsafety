@@ -1,0 +1,265 @@
+/* ArtistSafety.net section styles — matching original www.artistsafety.net */
+
+/* Base */
+.asn-site {
+  max-width: 1064px;
+  margin: 0 auto;
+  padding: 0 20px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #404040;
+}
+
+.asn-site * {
+  box-sizing: border-box;
+}
+
+/* Header */
+.asn-header {
+  position: relative;
+  padding: 20px 0;
+}
+
+.asn-branding {
+  max-width: 460px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.asn-branding img {
+  max-width: 100%;
+  height: auto;
+  border: none;
+}
+
+/* Navigation */
+.asn-nav {
+  border-top: solid 1px #A8A8A8;
+  border-bottom: solid 1px #A8A8A8;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.asn-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.asn-nav li {
+  display: inline-block;
+}
+
+.asn-nav a {
+  display: block;
+  text-decoration: none;
+  color: #000;
+  font-size: 0.85em;
+  padding: 10px;
+}
+
+.asn-nav a:hover {
+  color: #ed1c24;
+}
+
+.asn-nav .current a {
+  background: #f1f1f1;
+}
+
+/* Main Content */
+.asn-main {
+  max-width: 1024px;
+  margin: 20px auto;
+}
+
+/* Headings */
+.asn-main h1 {
+  font-size: 2em;
+  font-weight: 700;
+  color: #6AADE4;
+  margin: 0.67em 0;
+}
+
+.asn-main h2 {
+  font-size: 1.5em;
+  font-weight: 700;
+  color: #6AADE4;
+  margin: 1em 0 0.5em 0;
+}
+
+.asn-main h3 {
+  font-size: 1.2em;
+  font-weight: 700;
+  color: #6AADE4;
+  margin: 1em 0 0.5em 0;
+}
+
+/* Links */
+.asn-main a {
+  color: #ed1c24;
+  text-decoration: none;
+}
+
+.asn-main a:hover {
+  color: midnightblue;
+}
+
+/* Content body */
+.asn-content {
+  max-width: 720px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+.asn-content p {
+  margin: 0 0 1.2em 0;
+}
+
+.asn-content img {
+  max-width: 100%;
+  height: auto;
+  margin: 10px 0;
+}
+
+.asn-content blockquote {
+  border-left: 3px solid #6AADE4;
+  margin: 15px 0 15px 20px;
+  padding: 5px 0 5px 15px;
+  color: #666;
+  font-style: italic;
+}
+
+.asn-content ul,
+.asn-content ol {
+  padding-left: 25px;
+  margin-bottom: 15px;
+}
+
+.asn-content li {
+  margin-bottom: 5px;
+}
+
+.asn-content hr {
+  border: none;
+  border-top: 1px solid #A8A8A8;
+  margin: 2em 0;
+}
+
+/* Homepage header area */
+.asn-home-header {
+  position: relative;
+  max-width: 1024px;
+  margin: 20px auto;
+  min-height: 500px;
+}
+
+/* Homepage project grid */
+.asn-projects {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  position: relative;
+  z-index: 10;
+}
+
+.asn-project-card {
+  text-align: center;
+}
+
+.asn-project-card a {
+  display: block;
+  text-decoration: none;
+  color: #404040;
+}
+
+.asn-project-card img {
+  max-width: 100%;
+  height: auto;
+  border: none;
+}
+
+.asn-project-card:hover img {
+  opacity: 0.85;
+}
+
+/* Red network graphic */
+.asn-network-graphic {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.asn-network-graphic img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Page navigation list */
+.asn-page-nav {
+  margin: 20px 0;
+  padding: 0;
+}
+
+.asn-page-nav a {
+  display: inline-block;
+  padding: 5px 0;
+  color: #ed1c24;
+  text-decoration: none;
+  font-size: 0.95em;
+}
+
+.asn-page-nav a:hover {
+  color: midnightblue;
+}
+
+/* Footer */
+.asn-footer {
+  text-align: center;
+  margin-top: 40px;
+  padding-bottom: 20px;
+}
+
+.asn-footer-menu {
+  border-top: solid 1px #A8A8A8;
+  border-bottom: solid 1px #A8A8A8;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.asn-footer-menu a {
+  display: inline-block;
+  text-decoration: none;
+  color: #000;
+  font-size: 0.9em;
+  padding: 10px;
+}
+
+.asn-footer-menu a:hover {
+  color: #ed1c24;
+}
+
+.asn-footer-copy {
+  font-size: 0.7em;
+  color: #999;
+  margin-top: 10px;
+}
+
+/* Responsive */
+@media only screen and (max-width: 768px) {
+  .asn-site {
+    padding: 0 15px;
+  }
+
+  .asn-projects {
+    grid-template-columns: 1fr;
+  }
+
+  .asn-branding {
+    max-width: 100%;
+  }
+}
