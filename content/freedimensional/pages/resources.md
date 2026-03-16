@@ -4,7 +4,7 @@ date: 2013-06-20
 id: 1421
 slug: "resources"
 title: "Resources"
-type: "page"
+type: "freedimensional"
 ---
 
 ## For Culture Workers & Activists

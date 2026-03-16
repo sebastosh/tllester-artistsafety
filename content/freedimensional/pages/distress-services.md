@@ -4,7 +4,7 @@ date: 2010-10-05
 id: 35
 slug: "distress-services"
 title: "Distress Services"
-type: "page"
+type: "freedimensional"
 ---
 
 Each year, hundreds of culture workers are violently assaulted for pursuing social change through their art forms: as community leaders and role models, they lose their jobs; face arbitrary imprisonment; and are sometimes killed for speaking truth to power. freeDimensional believes that art spaces are a vital part of civil society and are in a unique position to support activists and culture workers-in-distress while engaging their local communities around key issues.

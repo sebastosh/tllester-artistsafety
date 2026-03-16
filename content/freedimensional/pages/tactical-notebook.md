@@ -4,7 +4,7 @@ date: 2010-12-14
 id: 555
 slug: "tactical-notebook"
 title: "Tactical Notebook"
-type: "page"
+type: "freedimensional"
 ---
 
 Our Tactical Notebook, "Art Spaces Hosting Activism: Using surplus resources to provide individual assistance and strengthen community engagement", was produced with New Tactics in Human Rights. [Click here for more information from New Tactics.](http://www.newtactics.org/en/ArtSpaces)

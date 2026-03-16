@@ -4,7 +4,7 @@ date: 2010-10-01
 id: 5
 slug: "about"
 title: "About"
-type: "page"
+type: "freedimensional"
 ---
 
 The goal of freeDimensional is to support culture in the service of free expression, justice and equality.

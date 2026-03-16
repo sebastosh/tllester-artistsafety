@@ -4,7 +4,7 @@ date: 2013-06-21
 id: 1443
 slug: "art-spaces"
 title: "Art Spaces"
-type: "page"
+type: "freedimensional"
 ---
 
 Art spaces play a critical role in supporting free expression and fighting censorship.

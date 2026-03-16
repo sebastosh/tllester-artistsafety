@@ -4,7 +4,7 @@ date: 2013-06-21
 id: 1437
 slug: "housing"
 title: "Housing / Relocation / Safe Haven"
-type: "page"
+type: "freedimensional"
 ---
 
 - [Residency Unlimited](http://www.residencyunlimited.org/ "Residency Unlimited")

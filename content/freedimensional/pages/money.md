@@ -4,7 +4,7 @@ date: 2013-06-21
 id: 1438
 slug: "money"
 title: "Employment, Emergency Funds, Grants"
-type: "page"
+type: "freedimensional"
 ---
 
 - [FREEMUSE - Freedom of Musical Expression](http://www.freemuse.org/)

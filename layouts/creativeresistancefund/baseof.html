@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+  <link rel="stylesheet" href="/creativeresistancefund/crf-style.css">
+  <style>
+    html, body {
+      background: #E0E1E2;
+      font-family: Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: auto;
+      display: block;
+      color: #666;
+    }
+    /* Override base styles for CRF section */
+    header, footer, main, nav {
+      all: unset;
+      display: block;
+    }
+    a, a:visited {
+      color: #f33;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #333;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="crf-page">
+
+    {{/* Header with CRF logo */}}
+    <div class="crf-header">
+      <a href="{{ "/creativeresistancefund/" | relURL }}">
+        <img src="{{ "/creativeresistancefund/images/crf-header-logo.gif" | relURL }}" alt="Creative Resistance Fund">
+      </a>
+      <h1>Creative Resistance Fund</h1>
+      <p class="crf-tagline">Support for people using creativity to fight injustice</p>
+    </div>
+
+    {{/* Navigation */}}
+    <nav class="crf-nav">
+      <ul>
+        <li><a href="{{ "/creativeresistancefund/" | relURL }}">home</a></li>
+        <li><a href="{{ "/creativeresistancefund/about/" | relURL }}">about</a></li>
+        <li><a href="{{ "/creativeresistancefund/resources/" | relURL }}">resources</a></li>
+        <li><a href="{{ "/creativeresistancefund/contact/" | relURL }}">contact</a></li>
+        <li><a href="{{ "/freedimensional/" | relURL }}">freedimensional</a></li>
+      </ul>
+    </nav>
+
+    {{/* Content + Sidebar */}}
+    <div class="crf-content-wrap">
+
+      {{/* Main Content */}}
+      <div class="crf-narrowcolumn">
+        {{ block "main" . }}{{ end }}
+      </div>
+
+      {{/* Sidebar — matching original crf.artistsafety.net */}}
+      <div class="crf-sidebar">
+        <div class="crf-widget">
+          <div class="crf-sidebar-top">
+            <a href="{{ "/creativeresistancefund/donate/" | relURL }}">
+              <img src="{{ "/creativeresistancefund/images/donate-crf.gif" | relURL }}" alt="Donate to CRF" style="max-width:100%; height:auto;">
+            </a>
+            <a href="{{ "/creativeresistancefund/" | relURL }}">
+              <img src="{{ "/creativeresistancefund/images/rss-icon.gif" | relURL }}" alt="RSS" style="height:40px; width:auto;">
+            </a>
+          </div>
+        </div>
+        <div class="crf-widget">
+          <div class="crf-widget-title">featured case study</div>
+          <a href="{{ "/freedimensional/pages/abazar-hamid/" | relURL }}">
+            <img src="{{ "/creativeresistancefund/images/abazar-guitar.jpg" | relURL }}" alt="Abazar Hamid" style="max-width:100%; height:auto; margin-bottom:5px;">
+            <span class="crf-case-study-name">abazar hamid</span>
+          </a>
+        </div>
+        <div class="crf-widget">
+          <div class="crf-widget-title">partners</div>
+          <div class="crf-partners">
+            <a href="#">
+              <img src="{{ "/creativeresistancefund/images/freedom-to-create.gif" | relURL }}" alt="Freedom to Create">
+            </a>
+            <a href="#">
+              <img src="{{ "/creativeresistancefund/images/serrano-logo.gif" | relURL }}" alt="Serrano">
+            </a>
+            <a href="#">
+              <img src="{{ "/creativeresistancefund/images/sigrid-rausing-trust.gif" | relURL }}" alt="Sigrid Rausing Trust">
+            </a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    {{/* Footer */}}
+    <div class="crf-footer">
+      <p>inquiry@freedimensional.org | P.O. Box 2, New York, NY 10276 USA</p>
+      <p>&copy; {{ now.Year }} Creative Resistance Fund</p>
+    </div>
+
+  </div>
+
+</body>
+</html>

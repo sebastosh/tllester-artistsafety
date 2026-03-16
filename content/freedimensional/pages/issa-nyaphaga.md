@@ -4,7 +4,7 @@ date: 2010-10-06
 id: 169
 slug: "issa-nyaphaga"
 title: "Issa Nyaphaga"
-type: "page"
+type: "freedimensional"
 ---
 
 [![](/freedimensional/images/IMG_0972-150x150.jpg "IMG_0972")](http://freedimensional.org/about/case-studies/img_0972/)After he fled Cameroon, freeDimensional helped Issa Nyaphaga gain placement in a series of artist residencies while he adjusted to life in exile. Today, Issa runs an indigenous rights organization and continues to produce critical art about critical issues. freeDimensional relies on a global network of art spaces to help its stakeholders access local resources and provide safe haven when they arrive in a new community. This service is called [Creative Safe Haven](http://freedimensional.org/services/distress-services/creative-safe-haven/).

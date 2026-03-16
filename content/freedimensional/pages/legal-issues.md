@@ -4,7 +4,7 @@ date: 2013-06-21
 id: 1435
 slug: "legal-issues"
 title: "Legal Issues"
-type: "page"
+type: "freedimensional"
 ---
 
 - [Center for Justice and International Law](http://www.cejil.org/main.cfm?switch=i) - See also: [Pro Bono Guide](http://www.cejil.org/probono.cfm)

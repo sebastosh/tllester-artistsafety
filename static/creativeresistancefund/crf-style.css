@@ -1,0 +1,381 @@
+/* Creative Resistance Fund section styles — matching original crf.artistsafety.net */
+
+/* Base */
+.crf-page {
+  width: 960px;
+  margin: 20px auto;
+  padding: 0;
+  text-align: left;
+  font-size: 62.5%;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #666;
+}
+
+.crf-page * {
+  box-sizing: border-box;
+}
+
+/* Header */
+.crf-header {
+  background: #fff;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  border-radius: 1em 1em 0 0;
+}
+
+.crf-header img {
+  max-width: 100%;
+  height: auto;
+  border: none;
+}
+
+.crf-header h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2.4em;
+  font-weight: bold;
+  color: #f33;
+  margin: 10px 0 5px 0;
+}
+
+.crf-tagline {
+  font-size: 1.3em;
+  color: #999;
+  margin: 0 0 10px 0;
+}
+
+/* Navigation */
+.crf-nav {
+  background: #fff;
+  margin: 0 0 2px 0;
+  padding: 12px 10px;
+  border-radius: 0 0 1em 1em;
+}
+
+.crf-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 0;
+}
+
+.crf-nav li {
+  float: left;
+  padding: 0 10px;
+}
+
+.crf-nav a {
+  color: #f33;
+  text-decoration: none;
+  font-size: 1.6em;
+  text-transform: lowercase;
+}
+
+.crf-nav a:hover {
+  color: #333;
+  text-decoration: underline;
+}
+
+/* Content Layout */
+.crf-content-wrap {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+/* Main Content */
+.crf-narrowcolumn {
+  flex: 1;
+  min-width: 0;
+  background: #fff;
+  border-radius: 1em;
+  padding: 0 0 20px 0;
+  font-size: 1.2em;
+}
+
+/* Page Title */
+.crf-pagetitle {
+  font-size: 1.6em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background: #666;
+  border-radius: 0.7em 0.7em 0 0;
+  margin: 0;
+  padding: 10px 20px;
+  color: #fff;
+}
+
+.crf-pagetitle a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Post content */
+.crf-post-body {
+  padding: 15px 20px;
+  line-height: 1.8em;
+}
+
+.crf-post-body p {
+  margin: 0 0 15px 0;
+  font-size: 1em;
+  line-height: 1.8em;
+}
+
+.crf-post-body h1,
+.crf-post-body h1 a {
+  color: #f33;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.crf-post-body h2,
+.crf-post-body h2 a {
+  color: #f33;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 1.4em;
+  margin: 20px 0 10px 0;
+}
+
+.crf-post-body h3,
+.crf-post-body h3 a {
+  color: #f33;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.crf-post-body a {
+  color: #f33;
+  text-decoration: none;
+}
+
+.crf-post-body a:hover {
+  color: #333;
+  text-decoration: underline;
+}
+
+.crf-post-body img {
+  max-width: 100%;
+  height: auto;
+  margin: 5px 15px 10px 0;
+}
+
+.crf-post-body blockquote {
+  border-left: 3px solid #f33;
+  margin: 10px 0 10px 20px;
+  padding: 5px 0 5px 15px;
+  color: #999;
+  font-style: italic;
+}
+
+.crf-post-body ul,
+.crf-post-body ol {
+  padding-left: 25px;
+  margin-bottom: 15px;
+}
+
+/* Post meta */
+.crf-post-meta {
+  padding: 5px 20px;
+  font-size: 0.9em;
+  color: #999;
+  border-top: 1px solid #eee;
+}
+
+.crf-post-meta a {
+  color: #f33;
+}
+
+/* Post list (section homepage) */
+.crf-post-list .crf-post-entry {
+  padding: 15px 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.crf-post-list .crf-post-entry:last-child {
+  border-bottom: none;
+}
+
+.crf-post-entry h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.4em;
+  font-weight: bold;
+  margin: 0 0 5px 0;
+}
+
+.crf-post-entry h2 a {
+  color: #f33;
+  text-decoration: none;
+}
+
+.crf-post-entry h2 a:hover {
+  color: #333;
+  text-decoration: underline;
+}
+
+.crf-post-entry .crf-date {
+  font-size: 0.9em;
+  color: #999;
+  margin-bottom: 5px;
+}
+
+.crf-post-entry .crf-excerpt {
+  line-height: 1.8em;
+  color: #666;
+}
+
+.crf-post-entry .crf-excerpt p {
+  margin: 0;
+}
+
+.crf-post-entry img {
+  float: left;
+  margin: 0 15px 10px 0;
+  max-width: 300px;
+  height: auto;
+}
+
+/* Sidebar */
+.crf-sidebar {
+  width: 243px;
+  min-width: 243px;
+  padding: 10px 0;
+  font: 1em 'Lucida Grande', Verdana, Arial, sans-serif;
+}
+
+.crf-sidebar .crf-widget {
+  list-style: none;
+  background: #fff;
+  border-radius: 1em;
+  padding: 15px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.crf-sidebar .crf-widget-title {
+  color: #666;
+  font-size: 1.1em;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+  text-transform: lowercase;
+}
+
+.crf-sidebar-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.crf-sidebar-top img {
+  border: none;
+}
+
+.crf-case-study-name {
+  display: block;
+  color: #f33;
+  font-size: 1.1em;
+  margin-top: 5px;
+}
+
+.crf-partners {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.crf-partners img {
+  max-width: 100%;
+  height: auto;
+  border: none;
+}
+
+.crf-sidebar .crf-widget p {
+  font-size: 0.9em;
+  line-height: 1.6em;
+  text-align: left;
+  color: #666;
+}
+
+.crf-sidebar .crf-widget a {
+  color: #f33;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+.crf-sidebar .crf-widget a:hover {
+  color: #333;
+  text-decoration: underline;
+}
+
+.crf-sidebar .crf-widget ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.crf-sidebar .crf-widget li {
+  padding: 3px 0;
+}
+
+/* Footer */
+.crf-footer {
+  background: #fff;
+  border-radius: 1em;
+  padding: 15px 20px;
+  margin-top: 10px;
+  clear: both;
+}
+
+.crf-footer p {
+  font-size: 1.1em;
+  color: #999;
+  margin: 0 0 3px 0;
+}
+
+.crf-footer a {
+  color: #f33;
+  text-decoration: none;
+}
+
+.crf-footer a:hover {
+  text-decoration: underline;
+}
+
+/* Pagination */
+.crf-pagination {
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 1em;
+}
+
+.crf-pagination a {
+  color: #f33;
+}
+
+/* Responsive */
+@media only screen and (max-width: 980px) {
+  .crf-page {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+  .crf-content-wrap {
+    flex-direction: column;
+  }
+
+  .crf-sidebar {
+    width: 100%;
+    min-width: unset;
+  }
+}

@@ -4,7 +4,7 @@ date: 2013-06-21
 id: 1431
 slug: "censorship"
 title: "Censorship"
-type: "page"
+type: "freedimensional"
 ---
 
 - [FREEMUSE - Freedom of Musical Expression](http://www.freemuse.org/)

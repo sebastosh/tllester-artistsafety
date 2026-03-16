@@ -4,7 +4,7 @@ date: 2013-06-13
 id: 1411
 slug: "hua-ze"
 title: "Hua Ze"
-type: "page"
+type: "freedimensional"
 ---
 
 ![hua-ze-stakeholder-fD](/freedimensional/images/hua-ze-stakeholder-fD-229x300.jpg)Hua Ze is a documentary film director and a human rights activist. She worked for China Central Television (CCTV) for 12 years, producing more than 50 Chinese history and biography documentaries. Hua left CCTV in 2010 in order to be an independent documentary director. Additionally, she is deeply devoted to freedom of speech and human rights issues in China, making documentaries on China's civil rights movements.

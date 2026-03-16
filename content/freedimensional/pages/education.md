@@ -4,7 +4,7 @@ date: 2013-06-21
 id: 1439
 slug: "education"
 title: "Education"
-type: "page"
+type: "freedimensional"
 ---
 
 - [Scholars at Risk Network](http://www.scholarsatrisk.nyu.edu/)

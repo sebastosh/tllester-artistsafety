@@ -4,7 +4,7 @@ date: 2010-10-06
 id: 182
 slug: "creative-resistance-fund"
 title: "Creative Resistance Fund"
-type: "page"
+type: "freedimensional"
 ---
 
 [Go to the Fund's website](http://www.creativeresistancefund.org "Go to the Fund's website")

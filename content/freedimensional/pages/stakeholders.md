@@ -4,7 +4,7 @@ date: 2010-10-05
 id: 63
 slug: "stakeholders"
 title: "Stakeholders"
-type: "page"
+type: "freedimensional"
 ---
 
 The following cases are examples of people and situations that have received our Distress Services: {list}

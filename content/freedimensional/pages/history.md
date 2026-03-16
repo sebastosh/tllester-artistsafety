@@ -4,7 +4,7 @@ date: 2010-10-05
 id: 58
 slug: "history"
 title: "History"
-type: "page"
+type: "freedimensional"
 ---
 
 Todd Lester founded freeDimensional in 2006 with Hugo Espinel, a filmmaker, and Alexandra Zobel, a literature professor, both from Colombia.

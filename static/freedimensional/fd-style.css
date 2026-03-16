@@ -1,0 +1,515 @@
+/* freeDimensional section styles — matching original fd.artistsafety.net WordPress theme */
+
+/* Reset & Base */
+.fd-wrap {
+  width: 963px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: left;
+  font: 11px/18px Helvetica, Arial, sans-serif;
+  color: #000;
+}
+
+.fd-wrap * {
+  box-sizing: border-box;
+}
+
+/* Logo Banner */
+.fd-logobanner {
+  background: #fff;
+  padding-right: 20px;
+  margin-bottom: 2px;
+  border-radius: 1em;
+  overflow: hidden;
+}
+
+.fd-banner-images {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 150px;
+}
+
+.fd-banner-images a {
+  display: block;
+  line-height: 0;
+}
+
+.fd-banner-left {
+  /* height: 70px; */
+  width: auto;
+  border: none;
+}
+
+.fd-banner-right {
+  /* height: 50px; */
+  width: auto;
+  border: none;
+}
+
+/* Masthead */
+.fd-masthead {
+  width: 963px;
+  margin-bottom: 2px;
+}
+
+.fd-masthead h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 25px;
+  font-weight: normal;
+  padding: 0 0 0.2em 0;
+  margin: 0;
+}
+
+.fd-masthead h1 a {
+  color: #414F59;
+  text-decoration: none;
+}
+
+.fd-masthead h1 a:hover {
+  color: #444;
+  text-decoration: underline;
+}
+
+.fd-masthead h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 0 0 0.75em 0;
+  font-weight: normal;
+  font-size: 14px;
+  color: #888;
+}
+
+/* Navigation Bar */
+.fd-navbar {
+  background-color: #ee3b36;
+  margin: 0 0 2px 0;
+  border-radius: 0.5em;
+  position: relative;
+}
+
+.fd-nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.fd-nav li {
+  position: relative;
+}
+
+.fd-nav > li > a {
+  color: #fff;
+  display: block;
+  font-size: 14px;
+  line-height: 1;
+  padding: 14px 18px;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+.fd-nav > li:hover > a,
+.fd-nav > li > a:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.fd-nav > li:first-child > a {
+  border-radius: 0.5em 0 0 0.5em;
+}
+
+/* Dropdown */
+.fd-nav .fd-sub-menu {
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  background-color: #ee3b36;
+  border: 2px solid #fff;
+  border-top: 0;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  min-width: 200px;
+  z-index: 99999;
+}
+
+.fd-nav li:hover > .fd-sub-menu {
+  display: block;
+}
+
+.fd-nav .fd-sub-menu li a {
+  color: #fff;
+  display: block;
+  font-size: 13px;
+  padding: 10px 15px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.fd-nav .fd-sub-menu li a:hover {
+  background-color: #000;
+}
+
+/* Sub-sub menu */
+.fd-nav .fd-sub-menu .fd-sub-menu {
+  left: 100%;
+  top: 0;
+}
+
+/* Two-column layout (content + right sidebar) */
+.fd-columns {
+  display: flex;
+  gap: 7px;
+  margin-top: 10px;
+}
+
+/* Content Area */
+.fd-contentleft {
+  flex: 1;
+  min-width: 0;
+  background: #fff;
+  border-radius: 1em;
+  padding: 0 0 10px 0;
+  margin: 0;
+}
+
+/* Single Post Header */
+.fd-contentleft .fd-post-header {
+  font-size: 1.2em;
+  background: #EE3B36;
+  color: #fff;
+  border-radius: 0.7em 0.7em 0 0;
+  margin: 0;
+  padding: 15px 20px 10px 20px;
+  font-weight: bold;
+}
+
+.fd-contentleft .fd-post-header a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.fd-contentleft .fd-post-header a:hover {
+  text-decoration: underline;
+}
+
+/* Post Content */
+.fd-post-body {
+  padding: 15px 20px;
+  font-size: 1.2em;
+  line-height: 1.7em;
+}
+
+.fd-post-body p {
+  padding: 0 0 15px 0;
+  margin: 0;
+  line-height: 20px;
+  font-size: 13px;
+}
+
+.fd-post-body h1 {
+  color: #000;
+  font-size: 24px;
+  line-height: 26px;
+  font-weight: normal;
+  letter-spacing: 0;
+  margin: 0 0 3px 0;
+  padding: 10px 0 0 0;
+}
+
+.fd-post-body h2 {
+  font-size: 18px;
+  font-weight: normal;
+  padding: 0 0 5px 0;
+  margin: 25px 0 5px 0;
+}
+
+.fd-post-body h3 {
+  font-size: 14px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  margin: 25px 0 0 0;
+  padding: 10px 0 10px 0;
+}
+
+.fd-post-body img {
+  max-width: 100%;
+  height: auto;
+  margin: 5px 15px 10px 0;
+}
+
+.fd-post-body a {
+  color: #EE3B36;
+  text-decoration: none;
+}
+
+.fd-post-body a:hover {
+  color: #EE3B36;
+  text-decoration: underline;
+}
+
+.fd-post-body blockquote {
+  border-left: 3px solid #EE3B36;
+  margin: 10px 0 10px 20px;
+  padding: 5px 0 5px 15px;
+  color: #555;
+  font-style: italic;
+}
+
+.fd-post-body ul,
+.fd-post-body ol {
+  padding-left: 25px;
+  margin-bottom: 15px;
+}
+
+.fd-post-body li {
+  margin-bottom: 5px;
+  line-height: 20px;
+  font-size: 13px;
+}
+
+/* Post Meta */
+.fd-post-meta {
+  padding: 5px 20px;
+  font-size: 11px;
+  color: #888;
+  border-top: 1px solid #eee;
+}
+
+.fd-post-meta a {
+  color: #EE3B36;
+}
+
+/* Post List (homepage) */
+.fd-post-list .fd-post-entry {
+  padding: 15px 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.fd-post-list .fd-post-entry:last-child {
+  border-bottom: none;
+}
+
+.fd-post-entry h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0 0 5px 0;
+  padding: 0;
+}
+
+.fd-post-entry h2 a {
+  color: #EE3B36;
+  text-decoration: none;
+}
+
+.fd-post-entry h2 a:hover {
+  text-decoration: underline;
+}
+
+.fd-post-entry .fd-date {
+  font-size: 11px;
+  color: #888;
+  margin-bottom: 5px;
+}
+
+.fd-post-entry .fd-excerpt {
+  font-size: 13px;
+  line-height: 20px;
+  color: #333;
+}
+
+.fd-post-entry .fd-excerpt p {
+  margin: 0;
+}
+
+.fd-post-entry img {
+  float: left;
+  margin: 0 15px 10px 0;
+  max-width: 300px;
+  height: auto;
+}
+
+/* Right Sidebar — masonry layout via CSS columns */
+.fd-r-sidebar {
+  width: 300px;
+  min-width: 300px;
+  font: 11px/14px Helvetica, Arial, sans-serif;
+  column-count: 2;
+  column-gap: 10px;
+}
+
+.fd-r-sidebar .fd-widget {
+  list-style: none;
+  background: #fff;
+  border-radius: 1em;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  break-inside: avoid;
+}
+
+.fd-r-sidebar .fd-widget-title {
+  color: #666;
+  font-size: 11px;
+  line-height: 14px;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+  padding: 0;
+  text-transform: lowercase;
+}
+
+.fd-widget-text {
+  font-size: 11px;
+  line-height: 16px;
+  text-align: left;
+  margin: 0 0 5px 0;
+  color: #333;
+}
+
+.fd-widget-text a {
+  color: #EE3B36;
+}
+
+.fd-r-sidebar .fd-widget ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.fd-r-sidebar .fd-widget li {
+  padding: 2px 0;
+}
+
+.fd-r-sidebar .fd-widget a {
+  color: #EE3B36;
+  text-decoration: none;
+  font-size: 11px;
+}
+
+.fd-r-sidebar .fd-widget a:hover {
+  text-decoration: underline;
+}
+
+
+/* Social media icons */
+.fd-social-icons {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.fd-social-icons img {
+  width: 30px;
+  height: 30px;
+  border: none;
+}
+
+/* Footer */
+.fd-footer {
+  margin: 10px auto 20px;
+  width: 963px;
+  text-align: left;
+  background: #fff;
+  border-radius: 1em;
+  padding: 15px 20px;
+}
+
+.fd-footer p {
+  font-size: 11px;
+  color: #888;
+  margin: 0 0 5px 0;
+}
+
+.fd-footer a {
+  color: #EE3B36;
+  text-decoration: none;
+}
+
+.fd-footer a:hover {
+  text-decoration: underline;
+}
+
+/* Page list in sidebar */
+.fd-page-list {
+  text-align: left;
+}
+
+.fd-page-list a {
+  display: block;
+  padding: 3px 0;
+  color: #EE3B36;
+  font-size: 11px;
+  text-decoration: none;
+}
+
+.fd-page-list a:hover {
+  text-decoration: underline;
+}
+
+.fd-page-list a.active {
+  font-weight: bold;
+  color: #000;
+}
+
+/* Categories in sidebar */
+.fd-cat-list {
+  text-align: left;
+}
+
+.fd-cat-list a {
+  display: block;
+  padding: 2px 0;
+}
+
+/* Pagination */
+.fd-pagination {
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+}
+
+.fd-pagination a {
+  color: #EE3B36;
+}
+
+/* Section Title */
+.fd-section-header {
+  background: #EE3B36;
+  color: #fff;
+  border-radius: 0.7em 0.7em 0 0;
+  padding: 15px 20px 10px 20px;
+  font-size: 1.4em;
+  font-weight: bold;
+  margin: 0;
+}
+
+/* Responsive */
+@media only screen and (max-width: 980px) {
+  .fd-wrap {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+  .fd-columns {
+    flex-direction: column;
+  }
+
+  .fd-r-sidebar {
+    width: 100%;
+    min-width: unset;
+    column-count: 2;
+  }
+
+  .fd-r-sidebar .fd-widget {
+    break-inside: avoid;
+  }
+
+  .fd-footer {
+    width: 100%;
+  }
+}

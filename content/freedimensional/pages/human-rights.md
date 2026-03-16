@@ -4,7 +4,7 @@ date: 2013-06-21
 id: 1444
 slug: "human-rights"
 title: "Community organizations and human rights workers"
-type: "page"
+type: "freedimensional"
 ---
 
 ## [freeDimensional's How-to Videos](http://www.vimeo.com/album/1438810)

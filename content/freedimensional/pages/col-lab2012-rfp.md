@@ -4,7 +4,7 @@ date: 2011-11-22
 id: 1216
 slug: "col-lab2012-rfp"
 title: "COL-LAB 2012 RFP"
-type: "page"
+type: "freedimensional"
 ---
 
 COL:LAB (Collaboration Laboratory) 2012
