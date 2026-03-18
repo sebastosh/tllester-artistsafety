@@ -10,7 +10,7 @@ title = 'freeDimensional'
   [[menus.main]]
     identifier = 'freedimensional'
     name = 'FreeDimensional'
-    url = 'freedimensional/'
+    url = '/'
     weight = 10
   [[menus.main]]
     identifier = 'creativeresistancefund'

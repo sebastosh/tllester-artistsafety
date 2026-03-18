@@ -4,7 +4,7 @@
 
 <div class="fd-post-list">
   {{ range sort .RegularPages "Date" "desc" }}
-    {{ if not .Params.private }}
+    {{ if and (not .Params.private) (ne .Title "Search") }}
     <div class="fd-post-entry">
       <div class="fd-date">{{ .Date.Format "January 2, 2006" }}</div>
       <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
