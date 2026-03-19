@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+  <link rel="stylesheet" href="/nyc-prototype/nyc-style.css">
+  <style>
+    html, body {
+      background: #fff;
+      font-family: "Times New Roman", Times, Georgia, serif;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: auto;
+      display: block;
+      color: #363537;
+    }
+    /* Override base styles for NYC section */
+    header, footer, main, nav {
+      all: unset;
+      display: block;
+    }
+    a, a:visited {
+      color: #1da7e2;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="nyc-site">
+
+    {{/* Navbar — transparent on homepage, solid on inner pages */}}
+    <div class="nyc-navbar {{ if .IsSection }}navbar-transparent{{ else }}navbar-solid{{ end }}">
+      <div class="nyc-navbar-inner">
+        <a href="{{ "/nyc-prototype/" | relURL }}" class="nyc-navbar-brand">New York City Artist Safe Haven Prototype</a>
+        <ul class="nyc-nav">
+          <li><a href="{{ "/nyc-prototype/about/" | relURL }}">About</a></li>
+          <li><a href="{{ "/nyc-prototype/artists/" | relURL }}">Artists</a></li>
+        </ul>
+      </div>
+    </div>
+
+    {{ block "main" . }}{{ end }}
+
+    {{/* Footer */}}
+    <div class="nyc-footer">
+      <div class="nyc-footer-inner">
+        <ul class="nyc-footer-menu">
+          <li><a href="{{ "/nyc-prototype/" | relURL }}">Home</a></li>
+          <li><a href="{{ "/nyc-prototype/artists/" | relURL }}">Artists</a></li>
+        </ul>
+        <div class="nyc-footer-copy">&copy; {{ now.Year }} NYC Artist Safe Haven Prototype</div>
+      </div>
+    </div>
+
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+{{/* Short gradient banner with page title */}}
+<div class="nyc-page-banner">
+  <div class="nyc-page-banner-gradient"></div>
+  <h1>{{ .Title }}</h1>
+</div>
+
+{{/* Main raised content area */}}
+<div class="nyc-main-raised">
+  <div class="nyc-page-content">
+    {{ .Content }}
+  </div>
+</div>
+
+{{ end }}

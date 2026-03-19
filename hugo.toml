@@ -22,6 +22,11 @@ title = 'freeDimensional'
     name = 'ArtistSafety.net'
     url = 'artistsafety/'
     weight = 30
+  [[menus.main]]
+    identifier = 'nyc-prototype'
+    name = 'NYC Prototype'
+    url = 'nyc-prototype/'
+    weight = 35
     # [[menus.main]]
     # identifier = 'Search'
     # name = 'Search'
