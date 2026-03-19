@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+{{/* Short banner with artist's featured image as background */}}
+<div class="nyc-page-banner">
+  {{ with .Params.image }}
+    <div class="nyc-page-banner-image" style="background-image: url('{{ . | relURL }}');"></div>
+  {{ else }}
+    <div class="nyc-page-banner-gradient"></div>
+  {{ end }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Date }}<div class="nyc-post-date">Published {{ .Format "January 2, 2006" }}</div>{{ end }}
+</div>
+
+{{/* Main raised content area */}}
+<div class="nyc-main-raised">
+
+  <div class="nyc-page-content">
+    {{ .Content }}
+  </div>
+
+  {{/* Post info — category label */}}
+  <div class="nyc-post-info">
+    <a href="{{ "/nyc-prototype/artists/" | relURL }}" class="nyc-category-label">Artists</a>
+    <span></span>
+  </div>
+
+  <hr style="max-width:800px; margin:0 auto; border:none; border-top:1px solid #eee;">
+
+  {{/* Related posts */}}
+  {{ $artists := where (where site.RegularPages "Type" "nyc-prototype") "Params.artist" true }}
+  {{ $current := . }}
+  {{ $related := slice }}
+  {{ range $artists }}
+    {{ if ne .Permalink $current.Permalink }}
+      {{ $related = $related | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{ if $related }}
+  <div class="nyc-related">
+    <h2>Related Posts</h2>
+    <div class="nyc-related-grid">
+      {{ range $related }}
+        <a href="{{ .Permalink }}" class="nyc-related-card">
+          {{ with .Params.image }}
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}">
+          {{ end }}
+          <div class="nyc-related-card-body">
+            <div class="nyc-artist-card-category">Artists</div>
+            <h4>{{ .Title }}</h4>
+            <p>{{ .Summary | truncate 120 }}</p>
+          </div>
+        </a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+</div>
+
+{{ end }}

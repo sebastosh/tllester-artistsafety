@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+{{/* Short gradient banner */}}
+<div class="nyc-page-banner">
+  <div class="nyc-page-banner-gradient"></div>
+  <h1>{{ .Title }}</h1>
+</div>
+
+{{/* Main raised content area */}}
+<div class="nyc-main-raised">
+
+  {{/* Horizontal card listing */}}
+  <div class="nyc-artist-list">
+    {{ $artists := where (where site.RegularPages "Type" "nyc-prototype") "Params.artist" true }}
+    {{ range $artists }}
+      <div class="nyc-artist-card">
+        {{ with .Params.image }}
+          <div class="nyc-artist-card-image">
+            <a href="{{ $.Permalink }}"><img src="{{ . | relURL }}" alt="{{ $.Title }}"></a>
+          </div>
+        {{ end }}
+        <div class="nyc-artist-card-body">
+          <div class="nyc-artist-card-category">Artists</div>
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <p class="nyc-artist-card-excerpt">{{ .Summary | truncate 200 }} <a href="{{ .Permalink }}" class="nyc-readmore">Read more</a></p>
+          <div class="nyc-artist-card-meta">{{ .Date.Format "January 2, 2006" }}</div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+
+</div>
+
+{{ end }}

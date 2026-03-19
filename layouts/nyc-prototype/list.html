@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+{{/* Hero — full-height with Westbeth building background, text right-aligned */}}
+<div class="nyc-hero">
+  <div class="nyc-hero-bg"></div>
+  <div class="nyc-hero-gradient"></div>
+  <div class="nyc-hero-content">
+    <div class="nyc-hero-text">
+      <h1>{{ .Title }}</h1>
+      <p class="nyc-subtitle">Safety hosting, rights, and resources for artists at risk.</p>
+    </div>
+  </div>
+</div>
+
+{{/* Main raised content area */}}
+<div class="nyc-main-raised">
+
+  {{/* Features section */}}
+  <div class="nyc-features">
+    <h2 class="nyc-features-title">A Collaborative Residency.</h2>
+    <p class="nyc-features-desc">The New York City Artist Safe Haven Prototype is a program that provides housing, support, and career development to international artists who are at risk of political, gender or religious persecution; need a respite from dangerous situations; are from conflict regions anywhere in the world; are from countries where repressive regimes severely limit freedom of expression.</p>
+
+    <div class="nyc-features-grid">
+      <div class="nyc-feature-box">
+        <div class="nyc-feature-icon">&#9751;</div>
+        <h3>Housing</h3>
+        <p>Safe, secure housing at Westbeth Artists Housing in New York City's West Village.</p>
+      </div>
+      <div class="nyc-feature-box">
+        <div class="nyc-feature-icon">&#9998;</div>
+        <h3>Support</h3>
+        <p>Professional, legal, and personal support services, plus connections to curators and arts professionals.</p>
+      </div>
+      <div class="nyc-feature-box">
+        <div class="nyc-feature-icon">&#9733;</div>
+        <h3>Career Development</h3>
+        <p>Public programming opportunities and integration into New York City's creative communities.</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+{{ end }}

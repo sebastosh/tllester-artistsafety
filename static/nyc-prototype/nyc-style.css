@@ -1,0 +1,598 @@
+/* NYC Artist Safe Haven Prototype — matching theme on nyc.artistsafety.net */
+
+/* Base */
+.nyc-site * {
+  box-sizing: border-box;
+}
+
+/* Navbar */
+.nyc-navbar {
+  position: relative;
+  width: 100%;
+  z-index: 100;
+  padding: 10px 0;
+  transition: background 0.3s;
+}
+
+.nyc-navbar.navbar-transparent {
+  background: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.nyc-navbar.navbar-solid {
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.nyc-navbar-inner {
+  max-width: 1170px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 15px;
+}
+
+.nyc-navbar-brand {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1em;
+  font-weight: 400;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+
+.nyc-navbar.navbar-transparent .nyc-navbar-brand {
+  color: #fff;
+}
+
+.nyc-navbar.navbar-solid .nyc-navbar-brand {
+  color: #363537;
+}
+
+.nyc-nav {
+  display: flex;
+  gap: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nyc-nav li a {
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.85em;
+  font-weight: 400;
+  padding: 10px 15px;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: color 0.2s;
+}
+
+.nyc-navbar.navbar-transparent .nyc-nav li a {
+  color: #fff;
+}
+
+.nyc-navbar.navbar-transparent .nyc-nav li a:hover {
+  color: #eee;
+}
+
+.nyc-navbar.navbar-solid .nyc-nav li a {
+  color: #555;
+}
+
+.nyc-navbar.navbar-solid .nyc-nav li a:hover {
+  color: #1da7e2;
+}
+
+/* Hero — homepage full-height */
+.nyc-hero {
+  position: relative;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  overflow: hidden;
+}
+
+.nyc-hero-bg {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: url('/nyc-prototype/images/westbeth-building.jpg') center center / cover no-repeat;
+  z-index: 0;
+}
+
+.nyc-hero-gradient {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(45deg, rgb(67 67 67 / 82%) 0%, rgb(38 38 38 / 82%) 100%);
+  z-index: 1;
+}
+
+.nyc-hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 1170px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 80px 15px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nyc-hero-text {
+  width: 58%;
+  text-align: right;
+  color: #fff;
+}
+
+.nyc-hero-text h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 3.2em;
+  font-weight: 700;
+  margin: 0 0 15px 0;
+  line-height: 1.2;
+}
+
+.nyc-hero-text .nyc-subtitle {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.3em;
+  font-weight: 300;
+  opacity: 0.9;
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* Main raised — Material Design lifted card effect */
+.nyc-main-raised {
+  position: relative;
+  z-index: 3;
+  background: #fff;
+  margin: -60px 30px 0;
+  border-radius: 6px;
+  box-shadow: 0 16px 24px 2px rgba(0,0,0,0.14),
+              0 6px 30px 5px rgba(0,0,0,0.12),
+              0 8px 10px -5px rgba(0,0,0,0.2);
+}
+
+/* Features section — homepage below hero */
+.nyc-features {
+  padding: 60px 15px;
+  max-width: 1170px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.nyc-features-title {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2em;
+  font-weight: 700;
+  color: #363537;
+  margin: 0 0 15px 0;
+}
+
+.nyc-features-desc {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.05em;
+  color: #999;
+  max-width: 700px;
+  margin: 0 auto 40px;
+  line-height: 1.8;
+}
+
+.nyc-features-grid {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+
+.nyc-feature-box {
+  flex: 1;
+  max-width: 350px;
+  text-align: center;
+  padding: 20px;
+}
+
+.nyc-feature-icon {
+  font-size: 2.5em;
+  color: #516777;
+  margin-bottom: 15px;
+}
+
+.nyc-feature-box h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.2em;
+  font-weight: 700;
+  color: #363537;
+  margin: 0 0 10px 0;
+}
+
+.nyc-feature-box p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.95em;
+  color: #999;
+  line-height: 1.6;
+}
+
+/* Inner page header — short gradient banner */
+.nyc-page-banner {
+  position: relative;
+  padding: 100px 15px 60px;
+  text-align: center;
+  overflow: hidden;
+}
+
+.nyc-page-banner-gradient {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: linear-gradient(45deg, rgba(168,29,132,1) 0%, rgb(234,57,111) 100%);
+  z-index: 0;
+}
+
+.nyc-page-banner-image {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-size: cover;
+  background-position: center;
+  z-index: 0;
+}
+
+.nyc-page-banner-image::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: linear-gradient(45deg, rgba(168,29,132,0.7) 0%, rgba(234,57,111,0.7) 100%);
+}
+
+.nyc-page-banner h1 {
+  position: relative;
+  z-index: 1;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2.6em;
+  font-weight: 700;
+  color: #fff;
+  margin: 0;
+}
+
+.nyc-page-banner .nyc-post-date {
+  position: relative;
+  z-index: 1;
+  color: rgba(255,255,255,0.8);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.95em;
+  margin-top: 8px;
+}
+
+/* Page content — centered single column */
+.nyc-page-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 15px 60px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.05em;
+  line-height: 1.8;
+  color: #363537;
+}
+
+.nyc-page-content h1,
+.nyc-page-content h2,
+.nyc-page-content h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+  color: #363537;
+}
+
+.nyc-page-content h2 {
+  font-size: 1.5em;
+  margin: 30px 0 15px 0;
+}
+
+.nyc-page-content h3 {
+  font-size: 1.2em;
+  margin: 25px 0 10px 0;
+}
+
+.nyc-page-content p {
+  margin: 0 0 15px 0;
+}
+
+.nyc-page-content a {
+  color: #1da7e2;
+  text-decoration: none;
+}
+
+.nyc-page-content a:hover {
+  text-decoration: underline;
+}
+
+.nyc-page-content ul, .nyc-page-content ol {
+  padding-left: 25px;
+  margin-bottom: 15px;
+}
+
+.nyc-page-content li {
+  margin-bottom: 8px;
+}
+
+.nyc-page-content img {
+  max-width: 100%;
+  height: auto;
+  margin: 15px 0;
+}
+
+.nyc-page-content blockquote {
+  border-left: 3px solid #1da7e2;
+  margin: 15px 0;
+  padding: 10px 20px;
+  color: #666;
+  font-style: italic;
+}
+
+/* Artist category listing — horizontal cards */
+.nyc-artist-list {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 15px 60px;
+}
+
+.nyc-artist-card {
+  display: flex;
+  gap: 25px;
+  align-items: flex-start;
+  margin-bottom: 40px;
+  text-decoration: none;
+  color: #363537;
+}
+
+.nyc-artist-card-image {
+  flex: 0 0 280px;
+  height: 190px;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.nyc-artist-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.nyc-artist-card-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.nyc-artist-card-category {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.8em;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #1da7e2;
+  margin: 0 0 5px 0;
+}
+
+.nyc-artist-card-body h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.4em;
+  font-weight: 700;
+  color: #363537;
+  margin: 0 0 8px 0;
+}
+
+.nyc-artist-card-body h2 a {
+  color: #363537;
+  text-decoration: none;
+}
+
+.nyc-artist-card-body h2 a:hover {
+  color: #1da7e2;
+}
+
+.nyc-artist-card-excerpt {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.95em;
+  color: #999;
+  line-height: 1.6;
+  margin: 0 0 8px 0;
+}
+
+.nyc-artist-card-excerpt a.nyc-readmore {
+  color: #1da7e2;
+  text-decoration: none;
+}
+
+.nyc-artist-card-meta {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.8em;
+  color: #999;
+}
+
+/* Post info — category label + share */
+.nyc-post-info {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nyc-category-label {
+  display: inline-block;
+  background: #1da7e2;
+  color: #fff;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.75em;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 5px 12px;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+/* Related posts */
+.nyc-related {
+  padding: 40px 15px 60px;
+  text-align: center;
+}
+
+.nyc-related h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.8em;
+  font-weight: 700;
+  color: #363537;
+  margin: 0 0 30px 0;
+}
+
+.nyc-related-grid {
+  display: flex;
+  gap: 30px;
+  max-width: 1170px;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.nyc-related-card {
+  flex: 1;
+  max-width: 350px;
+  text-align: left;
+  text-decoration: none;
+  color: #363537;
+  background: #fff;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.nyc-related-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  display: block;
+}
+
+.nyc-related-card-body {
+  padding: 15px 20px;
+}
+
+.nyc-related-card-body .nyc-artist-card-category {
+  margin-bottom: 5px;
+}
+
+.nyc-related-card-body h4 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1em;
+  font-weight: 700;
+  color: #363537;
+  margin: 0 0 8px 0;
+}
+
+.nyc-related-card-body p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.9em;
+  color: #999;
+  line-height: 1.5;
+}
+
+/* Footer */
+.nyc-footer {
+  background: #363537;
+  padding: 20px 15px;
+}
+
+.nyc-footer-inner {
+  max-width: 1170px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nyc-footer-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+
+.nyc-footer-menu a {
+  color: #fff;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.85em;
+  text-transform: uppercase;
+}
+
+.nyc-footer-menu a:hover {
+  color: #1da7e2;
+}
+
+.nyc-footer-copy {
+  color: #999;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.85em;
+}
+
+.nyc-footer-copy a {
+  color: #1da7e2;
+  text-decoration: none;
+}
+
+/* Responsive */
+@media only screen and (max-width: 768px) {
+  .nyc-navbar-inner {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .nyc-hero-content {
+    justify-content: center;
+  }
+
+  .nyc-hero-text {
+    width: 100%;
+    text-align: center;
+  }
+
+  .nyc-hero-text h1 {
+    font-size: 2.2em;
+  }
+
+  .nyc-main-raised {
+    margin: -30px 10px 0;
+  }
+
+  .nyc-features-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nyc-artist-card {
+    flex-direction: column;
+  }
+
+  .nyc-artist-card-image {
+    flex: none;
+    width: 100%;
+    height: 200px;
+  }
+
+  .nyc-related-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nyc-footer-inner {
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+  }
+}
