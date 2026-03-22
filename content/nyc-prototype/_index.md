@@ -3,9 +3,4 @@ title: "NYC Artist Safe Haven Prototype"
 type: "nyc-prototype"
 date: 2024-01-01
 ---
-
-## A Collaborative Residency.
-
-Safety hosting, rights, and resources for artists at risk.
-
-The New York City Artist Safe Haven Prototype is a program that provides housing, support, and career development to international artists who are at risk of political, gender or religious persecution; need a respite from dangerous situations; are from conflict regions anywhere in the world; are from countries where repressive regimes severely limit freedom of expression.
+The New York City Artist Safe Haven Prototype was an initiative in partnership with Artistic Freedom Initiative, Westbeth Artists Community and Residency Unlimited to provide housing, support, and career development to international artists at risk of political, gender or religious persecution; in need a respite from dangerous situations; and from conflict regions anywhere in the world where repressive regimes severely limit freedom of expression. After a three-year period of development and publication of [Artist Safety Hosting - A Guide to History, Ethics, & Practice](/nyc-prototype/1-Artist-Safety-Hosting-Guide.pdf) based on lessons learned, the NYC Artist Safe Haven was integrated into the menu of Resettlement Assistance programs of Artistic Freedom Initiative in partnership with Residency Unlimited. 
