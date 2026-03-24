@@ -7,3 +7,4 @@ static/pagefind/
 
 .hugo_build.lock
 claude.md
+.claude/
