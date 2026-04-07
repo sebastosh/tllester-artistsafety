@@ -7,7 +7,7 @@ title: "Persecution / Harassment"
 type: "freedimensional"
 ---
 
-[Click here to apply for distress services.](http://freedimensional.org/services/distress-services/)
+[Click here to apply for distress services.](/pages/distress-services/)
 
 ## LGBTQ
 
@@ -30,7 +30,7 @@ type: "freedimensional"
 
 ## Related Resources
 
-- [Censorship](http://freedimensional.org/resources-new-page-in-development/censorship/)
-- [Mental & Physical Health](http://freedimensional.org/resources-new-page-in-development/health/)
-- [Legal Issues](http://freedimensional.org/resources-new-page-in-development/legal-issues/)
-- [Travel / Mobility / Immigration](http://freedimensional.org/resources-new-page-in-development/mobility/)
+- [Censorship](/pages/censorship/)
+- [Mental & Physical Health](/pages/health/)
+- [Legal Issues](/pages/legal-issues/)
+- [Travel / Mobility / Immigration](/pages/mobility/)

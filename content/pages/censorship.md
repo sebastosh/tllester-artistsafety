@@ -30,4 +30,4 @@ type: "freedimensional"
 
 ## Related Resources
 
-- [Legal Issues](freedimensional.org/resources-new-page-in-development/legal-issues/)
+- [Legal Issues](/pages/legal-issues/)

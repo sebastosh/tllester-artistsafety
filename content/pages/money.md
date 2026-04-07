@@ -58,7 +58,7 @@ type: "freedimensional"
 
 ## Related Resources
 
-- [Housing / Relocation / Safe Haven](http://freedimensional.org/resources-new-page-in-development/housing/)
-- [Travel / Mobility / Immigration](http://freedimensional.org/resources-new-page-in-development/mobility/)
-- [Education](http://freedimensional.org/resources-new-page-in-development/education/)
-- [Creative Resistance Fund](http://creativeresistancefund.org/)
+- [Housing / Relocation / Safe Haven](/pages/housing/)
+- [Travel / Mobility / Immigration](/pages/mobility/)
+- [Education](/pages/education/)
+- [Creative Resistance Fund](/creativeresistancefund/)

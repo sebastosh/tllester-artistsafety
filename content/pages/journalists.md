@@ -73,4 +73,4 @@ type: "freedimensional"
 
 ## 
 
-[Please get in touch with us](http://freedimensional.org/press/) if you would like to cover these issues and need additional information.
+[Please get in touch with us](/pages/press/) if you would like to cover these issues and need additional information.

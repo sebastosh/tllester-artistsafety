@@ -38,5 +38,5 @@ type: "freedimensional"
 
 ## Resources for Scholars at Risk
 
-- [Education](http://freedimensional.org/resources-new-page-in-development/education/)
-- [Employment, Emergency Funds, Grants](http://freedimensional.org/resources-new-page-in-development/money/)
+- [Education](/pages/education/)
+- [Employment, Emergency Funds, Grants](/pages/money/)

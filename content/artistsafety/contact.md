@@ -7,4 +7,4 @@ title: "contact"
 type: "about"
 ---
 
-Please reach us via email: [info@artistsafety.net](mailto:info@artstistsafety.net)
+Please reach us via email: [info@artistsafety.net](mailto:info@artistsafety.net)

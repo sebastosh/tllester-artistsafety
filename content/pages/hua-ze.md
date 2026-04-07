@@ -11,7 +11,7 @@ type: "freedimensional"
 
 In October 2010, she was kidnapped and secretly imprisoned for 55 days by the Chinese police. In early 2011 she came to the United States as a visiting scholar at Columbia University. She founded the non-profit organization “China Right in Action” in order to help Chinese human rights defenders.
 
-Since she relocated to NYC, freeDimensional has supported Hua through our [Resource Mapping service](http://freedimensional.org/services/distress-services/community-resource-mapping/) and through a re-grant for the Open Society Foundation via the [Creative Resistance Fund](http://freedimensional.org/services/distress-services/creative-resistance-fund/).
+Since she relocated to NYC, freeDimensional has supported Hua through our [Resource Mapping service](/pages/community-resource-mapping/) and through a re-grant for the Open Society Foundation via the [Creative Resistance Fund](/pages/creative-resistance-fund/).
 
 Hua Ze’s works:
 

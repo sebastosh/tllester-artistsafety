@@ -33,5 +33,5 @@ type: "freedimensional"
 
 ## Related Resources
 
-- [Employment, Emergency Funds, Grants](http://freedimensional.org/resources-new-page-in-development/money/)
-- [Resources for scholars, researchers & educators](http://freedimensional.org/resources-new-page-in-development/resources-for/scholars-researchers-educators/)
+- [Employment, Emergency Funds, Grants](/pages/money/)
+- [Resources for scholars, researchers & educators](/pages/scholars-researchers-educators/)

@@ -13,7 +13,7 @@ title: "Introducing the Creative Resistance Fund"
 type: "creativeresistancefund"
 ---
 
-This site is the new online home of the Creative Resistance Fund, a project of [freeDimensional](http://freedimensional.org/). Welcome!
+This site is the new online home of the Creative Resistance Fund, a project of [freeDimensional](/freedimensional/). Welcome!
 
 ![](/creativeresistancefund/images/CRF-Kianoush-1024x732.jpg "CRF-Kianoush")
 

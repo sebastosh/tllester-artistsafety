@@ -39,4 +39,4 @@ type: "freedimensional"
 
 ## Related Resources
 
-- [Employment, Emergency Funds, Grants](http://freedimensional.org/resources-new-page-in-development/money/)
+- [Employment, Emergency Funds, Grants](/pages/money/)

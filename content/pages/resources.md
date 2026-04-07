@@ -9,18 +9,18 @@ type: "freedimensional"
 
 ## For Culture Workers & Activists
 
-[![Censorship](/freedimensional/images/censorship-button.jpg)](http://freedimensional.org/resources/censorship/)[![Persecution and Harassment](/freedimensional/images/persecution-button.jpg)](http://freedimensional.org/resources/persecution/)[![Mental and Physical Health](/freedimensional/images/health-button.jpg)](http://freedimensional.org/resources/health/)[![Legal Issues](/freedimensional/images/legal-button.jpg)](http://freedimensional.org/resources/legal-issues/) [![Travel, Mobility and Immigration](/freedimensional/images/mobility-button.jpg)](http://freedimensional.org/resources/mobility/)[![Housing, Relocation and Safe Haven](/freedimensional/images/housing-button.jpg)](http://freedimensional.org/resources/housing/)[![Employment, Emergency Funds, Grants](/freedimensional/images/money-button.jpg)](http://freedimensional.org/resources/money/)[![Education](/freedimensional/images/education-button.jpg)](http://freedimensional.org/resources/education/)  
+[![Censorship](/freedimensional/images/censorship-button.jpg)](/pages/censorship/)[![Persecution and Harassment](/freedimensional/images/persecution-button.jpg)](/pages/persecution/)[![Mental and Physical Health](/freedimensional/images/health-button.jpg)](/pages/health/)[![Legal Issues](/freedimensional/images/legal-button.jpg)](/pages/legal-issues/) [![Travel, Mobility and Immigration](/freedimensional/images/mobility-button.jpg)](/pages/mobility/)[![Housing, Relocation and Safe Haven](/freedimensional/images/housing-button.jpg)](/pages/housing/)[![Employment, Emergency Funds, Grants](/freedimensional/images/money-button.jpg)](/pages/money/)[![Education](/freedimensional/images/education-button.jpg)](/pages/education/)  
 
 * * *
 
 ## Additional Resources for...
 
-- [Scholars, researchers & educators](http://freedimensional.org/resources/resources-for/scholars-researchers-educators/)
-- [Individuals who want to support free expression](http://freedimensional.org/resources/resources-for/individual-supporters/)
+- [Scholars, researchers & educators](/pages/scholars-researchers-educators/)
+- [Individuals who want to support free expression](/pages/individual-supporters/)
 
-- [Art Spaces](http://freedimensional.org/resources/resources-for/art-spaces/)
-- [Community organizations and human rights workers](http://freedimensional.org/resources/resources-for/human-rights/)
-- [Journalists and media makers](http://freedimensional.org/resources/resources-for/journalists/)
+- [Art Spaces](/pages/art-spaces/)
+- [Community organizations and human rights workers](/pages/human-rights/)
+- [Journalists and media makers](/pages/journalists/)
 
  
 
@@ -31,5 +31,5 @@ type: "freedimensional"
 
 ### Can't find what you're looking for?
 
-- [Apply for distress services](http://freedimensional.org/services/distress-services/)
-- [Contact us](http://freedimensional.org/contact/)
+- [Apply for distress services](/pages/distress-services/)
+- [Contact us](/pages/contact/)

@@ -80,7 +80,7 @@ type: "freedimensional"
 
 ## Related Resources
 
-- [Mental & Physical Health](http://freedimensional.org/resources-new-page-in-development/health/)
-- [Employment, Emergency Funds, Grants](http://freedimensional.org/resources-new-page-in-development/money/)
-- [Education](freedimensional.org/resources-new-page-in-development/education/)
-- [Nominate a culture worker to receive distress services](http://freedimensional.org/services/distress-services/distress-services-intake-form/)
+- [Mental & Physical Health](/pages/health/)
+- [Employment, Emergency Funds, Grants](/pages/money/)
+- [Education](/pages/education/)
+- [Nominate a culture worker to receive distress services](/pages/intake-form-twb/)

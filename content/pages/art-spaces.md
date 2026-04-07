@@ -22,7 +22,7 @@ Art spaces play a critical role in supporting free expression and fighting censo
 
 [Hosting Activism in Art Spaces - Short Version](http://vimeo.com/6420224) from [freeDimensional](http://vimeo.com/freedimensional) on [Vimeo](http://vimeo.com).
 
-We also invite you to download our Tactical Notebook, produced with New Tactics in Human Rights: _Art Spaces Hosting Activism: Using surplus resources to provide individual assistance and strengthen community engagement_: **[Click to download the Notebook »](http://freedimensional.org/resources/tactical-notebook/)**
+We also invite you to download our Tactical Notebook, produced with New Tactics in Human Rights: _Art Spaces Hosting Activism: Using surplus resources to provide individual assistance and strengthen community engagement_: **[Click to download the Notebook »](/pages/tactical-notebook/)**
 
 ## Useful Links
 
@@ -32,6 +32,6 @@ We also invite you to download our Tactical Notebook, produced with New Tactics 
 
 ## Related Resources
 
-- [Mental & Physical Health](http://freedimensional.org/resources-new-page-in-development/health/)
-- [Employment, Emergency Funds, Grants](http://freedimensional.org/resources-new-page-in-development/money/)
-- [Nominate a culture worker to receive distress services](http://freedimensional.org/services/distress-services/distress-services-intake-form/)
+- [Mental & Physical Health](/pages/health/)
+- [Employment, Emergency Funds, Grants](/pages/money/)
+- [Nominate a culture worker to receive distress services](/pages/intake-form-twb/)

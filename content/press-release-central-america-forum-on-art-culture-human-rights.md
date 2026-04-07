@@ -21,7 +21,7 @@ type: "freedimensional"
 
 **![CA map](/freedimensional/images/CA-map.jpg)The Central America Regional Forum on Arts, Culture and Human Rights takes place June 18-20 - Tegucigalpa, Honduras**
 
-**freeDimensional** ([www.freedimensional.org](http://www.freedimensional.org)), **Colectivo Hormiga** ([http://colectivohormiga.com](http://colectivohormiga.com)) **HIVOS** ([www.hivos.nl](http://bit.ly/1kVq1fh)) are pleased to announce the launch of the Central American Regional Forum on Arts, Culture and Human Rights, June 18-20 in Tegucigalpa, Honduras.
+**freeDimensional** ([www.freedimensional.org](/freedimensional/)), **Colectivo Hormiga** ([http://colectivohormiga.com](http://colectivohormiga.com)) **HIVOS** ([www.hivos.nl](http://bit.ly/1kVq1fh)) are pleased to announce the launch of the Central American Regional Forum on Arts, Culture and Human Rights, June 18-20 in Tegucigalpa, Honduras.
 
 The Forum is the first-ever three-day participatory forum aiming to support, unite and inspire the arts & culture and human rights sectors in Central America to collaborate, uphold freedom of expression as a basic human right and acknowledge artists and culture workers as primary defenders of it. Approximately 50 Central American cultural and human rights organizations will participate.
 

@@ -20,7 +20,7 @@ The program brings together:
 - **[Residency Unlimited (RU)](http://residencyunlimited.org)** — a residency program based in New York City.
 - **Westbeth Artists Housing** — a 384-unit artist housing complex in the West Village.
 - **[Artistic Freedom Initiative (AFI)](http://artisticfreedominitiative.org)** — a non-profit organization comprised of immigration and human rights attorneys who provide free immigration representation and resettlement assistance to at-risk artists.
-- **[ArtistSafety.net (ASnet)](http://artistsafety.net)** — an international volunteer network providing case management for threatened artists and culture workers.
+- **[ArtistSafety.net (ASnet)](/../artistsafety/)** — an international volunteer network providing case management for threatened artists and culture workers.
 - **[PEN America](http://pen.org)** — in partnership with Fordham University, focused on literature, human rights, and protecting at-risk writers and free expression in the United States and abroad.
 
 ## Program Operations

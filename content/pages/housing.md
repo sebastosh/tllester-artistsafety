@@ -16,6 +16,6 @@ type: "freedimensional"
 
 ## Related Resources
 
-- [Travel / Mobility / Immigration](http://freedimensional.org/resources-new-page-in-development/mobility/)
-- [Employment, Emergency Funds, Grants](http://freedimensional.org/resources-new-page-in-development/money/)
-- [Apply for distress services / creative safe haven](http://freedimensional.org/services/distress-services/distress-services-intake-form/)
+- [Travel / Mobility / Immigration](/pages/mobility/)
+- [Employment, Emergency Funds, Grants](/pages/money/)
+- [Apply for distress services / creative safe haven](/pages/intake-form-twb/)
