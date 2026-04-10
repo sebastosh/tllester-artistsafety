@@ -9,7 +9,7 @@ type: "freedimensional"
 
 ![](/freedimensional/images/Residency-Unlimited_logo1.png "Residency Unlimited_logo")
 
-[![](/freedimensional/images/Sigrid-Rausing-Trust_logo4.png "Sigrid Rausing Trust_logo")](http://www.sigrid-rausing-trust.org/)[![rabbit ABOG logo](/freedimensional/images/rabbit-ABOG-logo-300x244.jpg)](http://freedimensional.org/wp-content/uploads/2010/10/rabbit-ABOG-logo.jpg)
+[![](/freedimensional/images/Sigrid-Rausing-Trust_logo4.png "Sigrid Rausing Trust_logo")](http://www.sigrid-rausing-trust.org/)![rabbit ABOG logo](/freedimensional/images/rabbit-ABOG-logo-300x244.jpg)
 
  
 

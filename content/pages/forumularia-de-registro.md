@@ -7,7 +7,7 @@ title: "Formulario de Registro"
 type: "freedimensional"
 ---
 
-If you have inconsistent internet access or for whatever reason are unable to input to this form directly, a downloadable version is available here: [fD Formulario de Registro](http://freedimensional.org/wp-content/uploads/2013/01/Distress-Services-Intake-Esp-20121.doc<!-- TODO: missing local asset -->)
+If you have inconsistent internet access or for whatever reason are unable to input to this form directly, a downloadable version is available here: [fD Formulario de Registro](/pdfs/Distress-Services-Intake-Esp-20121.doc)
 
 _\* Required_
 

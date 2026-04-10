@@ -59,4 +59,4 @@ Applications will be assessed by a panel of three to five experts in the Arts 
 
 Click on the link below to download the full RFP and application form.
 
-[COL-LAB Request For Proposals.pdf](http://freedimensional.org/wp-content/uploads/2011/11/COL-LAB-Request-For-Proposals-Full-Version.pdf.pdf<!-- TODO: missing local asset -->)
+[COL-LAB Request For Proposals.pdf](/pdfs/COL-LAB-Request-For-Proposals-Full-Version.pdf)
